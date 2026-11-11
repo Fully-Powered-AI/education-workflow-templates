@@ -1,0 +1,45 @@
+{
+  "id": "course-sequence-and-workload-review",
+  "name": "Course sequence and workload review",
+  "kind": "capability-template",
+  "version": "0.1.0",
+  "summary": "A course lead revising an outline for the next cohort gets a module map: learning goals, prerequisites, activities and the instructor's own time estimates, with crowded weeks and coverage gaps marked and every gap written as a question. The course lead decides what changes.",
+  "directory": "https://fullypowered.ai/capabilities/course-sequence-and-workload-review/",
+  "primary_function": "functions/project-and-delivery",
+  "functions": [
+    "functions/project-and-delivery",
+    "functions/quality-management"
+  ],
+  "industries": [
+    "industries/education",
+    "industries/professional-services"
+  ],
+  "situations": [
+    "situations/established-businesses"
+  ],
+  "related": [
+    "project-scope-baseline",
+    "training-needs-analysis",
+    "recorded-sessions-into-articles"
+  ],
+  "evidence": {
+    "written_by": "Fully Powered AI",
+    "source_and_rights_reviewed": true,
+    "editorially_reviewed": "2026-11-10",
+    "package_format_valid": true,
+    "tested_environments": [],
+    "tried_on_example": [
+      {
+        "product": "Claude",
+        "date": "2026-11-10",
+        "record": "public/trial.md"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "kind": "own",
+      "title": "Fully Powered AI's own published map of the work of reviewing a course outline for the next cohort, and the rules written from how that work is done."
+    }
+  ]
+}

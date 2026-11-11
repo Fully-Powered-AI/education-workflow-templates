@@ -1,0 +1,45 @@
+{
+  "id": "academic-calendar-check",
+  "name": "Academic calendar check",
+  "kind": "capability-template",
+  "version": "0.1.0",
+  "summary": "While year, term and session dates are being assembled, your registrar gets a draft calendar with every registration window tied to its term, and every conflicting, missing or out-of-bounds date listed as a question. Nothing is published or changed.",
+  "directory": "https://fullypowered.ai/capabilities/academic-calendar-check/",
+  "primary_function": "functions/operations-and-process-improvement",
+  "functions": [
+    "functions/operations-and-process-improvement",
+    "functions/project-and-delivery"
+  ],
+  "industries": [
+    "industries/education",
+    "industries/government"
+  ],
+  "situations": [
+    "situations/established-businesses"
+  ],
+  "related": [
+    "launch-checklist",
+    "event-plan",
+    "spreadsheet-check-before-sharing"
+  ],
+  "evidence": {
+    "written_by": "Fully Powered AI",
+    "source_and_rights_reviewed": true,
+    "editorially_reviewed": "2026-11-10",
+    "package_format_valid": true,
+    "tested_environments": [],
+    "tried_on_example": [
+      {
+        "product": "Claude",
+        "date": "2026-11-10",
+        "record": "public/trial.md"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "kind": "own",
+      "title": "Fully Powered AI's own design, written from its published map of the work of assembling an academic calendar: a unit structure, the date proposals with their versions, and the closed days, each with set column headers; every conflict, gap and overlap shown rather than settled; and every finding turned into a question for the registrar."
+    }
+  ]
+}

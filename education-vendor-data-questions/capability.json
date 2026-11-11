@@ -1,0 +1,45 @@
+{
+  "id": "education-vendor-data-questions",
+  "name": "Teaching tool vendor data questions",
+  "kind": "capability-template",
+  "version": "0.1.0",
+  "summary": "Before a school or college adopts a teaching tool that would handle student or staff information, the privacy or procurement lead gets a scoped question pack on data flows, access, retention and subprocessors, with each supplied vendor document mapped to the questions and the gaps listed.",
+  "directory": "https://fullypowered.ai/capabilities/education-vendor-data-questions/",
+  "primary_function": "functions/compliance-risk-and-privacy",
+  "functions": [
+    "functions/compliance-risk-and-privacy",
+    "functions/information-security",
+    "functions/procurement-and-suppliers"
+  ],
+  "industries": [
+    "industries/education",
+    "industries/government",
+    "industries/nonprofits"
+  ],
+  "situations": [],
+  "related": [
+    "vendor-quote-comparison",
+    "vendor-renewal-review",
+    "pilot-acceptance-test-preparation"
+  ],
+  "evidence": {
+    "written_by": "Fully Powered AI",
+    "source_and_rights_reviewed": true,
+    "editorially_reviewed": "2026-11-10",
+    "package_format_valid": true,
+    "tested_environments": [],
+    "tried_on_example": [
+      {
+        "product": "Claude",
+        "date": "2026-11-10",
+        "record": "public/trial.md"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "kind": "own",
+      "title": "Fully Powered AI's own published map of this work, from which the question set, the five answer statuses, the rule that only an independent report counts as evidence, and the document mapping were written for this template."
+    }
+  ]
+}

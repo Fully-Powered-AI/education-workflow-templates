@@ -1,0 +1,44 @@
+{
+  "id": "online-class-setup-packet",
+  "name": "Online class setup packet",
+  "kind": "capability-template",
+  "version": "0.1.0",
+  "summary": "The learning-platform administrator receives one complete request for an approved class: course name, section, room, responsible teacher, the people who can be invited and every roster exception, drawn from the approved details and the roster export.",
+  "directory": "https://fullypowered.ai/capabilities/online-class-setup-packet/",
+  "primary_function": "functions/it-and-systems",
+  "functions": [
+    "functions/it-and-systems",
+    "functions/executive-and-office-support"
+  ],
+  "industries": [
+    "industries/education",
+    "industries/government"
+  ],
+  "situations": [
+    "situations/established-businesses"
+  ],
+  "related": [
+    "employee-onboarding-plan",
+    "shared-folder-filing-plan"
+  ],
+  "evidence": {
+    "written_by": "Fully Powered AI",
+    "source_and_rights_reviewed": true,
+    "editorially_reviewed": "2026-11-10",
+    "package_format_valid": true,
+    "tested_environments": [],
+    "tried_on_example": [
+      {
+        "product": "Claude",
+        "date": "2026-11-10",
+        "record": "public/trial.md"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "kind": "own",
+      "title": "Written by Fully Powered AI from its own published map of the work, with no third-party text."
+    }
+  ]
+}
