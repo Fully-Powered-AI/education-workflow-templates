@@ -1,6 +1,6 @@
 # Academic calendar check
 
-Capability template, version 0.1.0.
+Workflow template, version 0.1.0.
 
 ## Purpose
 
@@ -12,7 +12,7 @@ Use it when the offices have sent their proposed dates for a year and the regist
 
 Do not use it:
 
-- to decide the dates. Academic bodies and the registrar decide; this capability checks what they proposed;
+- to decide the dates. Academic bodies and the registrar decide; this workflow template checks what they proposed;
 - to plan a launch or an event around the calendar. Launch checklist and Event plan do that, once the dates are confirmed;
 - to say whether the calendar meets an accreditation rule, a funding rule or a minimum number of teaching days. Those are checks for the people who own those rules;
 - to update the student system, the web calendar or any notice. A person does that, after the registrar confirms.

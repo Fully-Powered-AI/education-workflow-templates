@@ -1,6 +1,6 @@
 # Teaching tool vendor data questions
 
-Capability template, version 0.1.0.
+Workflow template, version 0.1.0.
 
 ## Purpose
 
@@ -66,7 +66,7 @@ The assistant works from the files and notes the person supplies. It needs no ac
    Q15 Data flows. How are the things the tool produces about a person, such as scores, answers and recordings, stored, and can they be corrected or removed on request? Parts: (a) how they are stored; (b) whether they can be corrected or removed on request.
 
    The standard numbers never change: if Q14 or Q15 is not added, its number is simply not used. The institution's own questions follow in the order supplied, numbered from Q16 and marked as the institution's; the runner's text is the question, and each question's parts are its clauses. In the page, print each question without its parts. Print the number of questions.
-3. **Classify the documents.** A document of type `agreement` is not read: list it as not read, with the reason "agreements are not read by this capability", and name who reviews it in the decisions for [your approver] (step 9). A document with no text, or whose text is not about the named tool, is listed as supplied but not mapped, with the reason. Every other document is read. Count supplied, read and not read.
+3. **Classify the documents.** A document of type `agreement` is not read: list it as not read, with the reason "agreements are not read by this workflow template", and name who reviews it in the decisions for [your approver] (step 9). A document with no text, or whose text is not about the named tool, is listed as supplied but not mapped, with the reason. Every other document is read. Count supplied, read and not read.
 4. **Check each independent report.** A document of type `independent report` counts as evidence only if its text names the product, gives a period or a date, and names who issued it, and only if the whole months between its date and today are no more than [your age limit]. Print the months and the result for each, with the scope and period as stated. A report that fails any test is treated as a vendor statement, with the reason noted. Every other document type is a vendor statement. Whether a vendor filled in a questionnaire or published a page, it is the vendor speaking.
 5. **Map the documents to the questions.** For each question, find the passages in the documents read that answer one of its parts. Record the document id, the paragraph or item number and a quotation of no more than fifteen words. Quote; never summarize beyond the quotation, and never infer what a passage does not say. These rules hold:
    - A passage covers a category only if it names it or uses a general term that includes it. "School data" or "customer data" covers every category; "student data" covers the categories about students and not those about staff; "recordings" covers recordings.
@@ -115,7 +115,7 @@ DATA IN SCOPE ([n] categories)
 [id] [category], about [about], [source], sensitivity [sensitivity].
 
 DOCUMENTS ([n] supplied: [n] read, [n] not read)
-[doc_id] [title], [type], [date in words, no weekday]: read / not read (agreements are not read by this capability) / supplied, not mapped ([reason]).
+[doc_id] [title], [type], [date in words, no weekday]: read / not read (agreements are not read by this workflow template) / supplied, not mapped ([reason]).
 Independent reports: [doc_id]: issued [date in words], [n] months before today, [within / outside] the age limit of [n] months. Scope and period as stated: [as stated]; issuer [issuer]; [counted as evidence / counted as a vendor statement because [reason]]. / None supplied.
 [Paragraphs numbered by the assistant: [doc_ids].]
 
@@ -245,7 +245,7 @@ Q13 Evidence and incidents. How do you tell the school about a security incident
    page, print each question without its parts, and the number of
    questions.
 2. Agreements are listed as not read (agreements are not read by this
-   capability), and the decisions name who reviews them. A document
+   workflow template), and the decisions name who reviews them. A document
    with no text, or not about this tool, is listed as supplied, not
    mapped, with the reason. Print how many documents were supplied,
    read and not read.

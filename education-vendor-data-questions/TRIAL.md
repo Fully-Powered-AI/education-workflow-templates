@@ -35,7 +35,7 @@ D1 Privacy policy, policy, 14 August 2026: read.
 D2 Security overview page, security page, 2 September 2026: read.
 D3 Subprocessor list, subprocessor list, 2 September 2026: read.
 D4 Independent audit summary, independent report, 30 March 2025: read.
-D5 Master services agreement, agreement, 1 August 2026: not read (agreements are not read by this capability).
+D5 Master services agreement, agreement, 1 August 2026: not read (agreements are not read by this workflow template).
 Independent reports: D4: issued 30 March 2025, 19 months before today, within the age limit of 24 months. Scope and period as stated: the hosted Tool A service, 1 January 2024 to 31 December 2024; issuer Auditor X; counted as evidence.
 
 QUESTION PACK (15 questions, to put to Vendor A)

@@ -1,6 +1,6 @@
 # Academic calendar check: an invented example
 
-*Illustrative example with invented data.* The college, the offices, the units and every date below are invented. The college is an invented small community college, called the College here, whose registrar is assembling the calendar for the 2027-28 year. The registrar asks for the check on Tuesday 10 November 2026. Offices are named by role. First come the inputs the registrar supplied, in full, then the draft the capability returned.
+*Illustrative example with invented data.* The college, the offices, the units and every date below are invented. The college is an invented small community college, called the College here, whose registrar is assembling the calendar for the 2027-28 year. The registrar asks for the check on Tuesday 10 November 2026. Offices are named by role. First come the inputs the registrar supplied, in full, then the draft the workflow template returned.
 
 ## The inputs
 

@@ -2,7 +2,7 @@
 
 A course lead revising an outline for the next cohort gets a module map: learning goals, prerequisites, activities and the instructor's own time estimates, with crowded weeks and coverage gaps marked and every gap written as a question. The course lead decides what changes.
 
-*Capability template · Education · Project and delivery · version 0.1.0 · [Capabilities Directory](https://fullypowered.ai/capabilities/course-sequence-and-workload-review/)*
+*Workflow template · Education · People and HR · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflow templates/course-sequence-and-workload-review/)*
 
 ## The outcome
 
@@ -37,9 +37,10 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 - [Professional services](https://fullypowered.ai/industries/professional-services/), for the firms that run their own training programmes and certificate courses.
 - [Project and delivery](https://fullypowered.ai/functions/project-and-delivery/), because a course is a sequence of dependent work with a load on each week.
 - [Quality management](https://fullypowered.ai/functions/quality-management/), where the same question is asked of any programme: does what is promised have a place where it is taught and where it is checked.
+- [People and HR](https://fullypowered.ai/functions/people-and-hr/), where learning and development plans what is taught, in what order and with what load on each week.
 - [Established businesses](https://fullypowered.ai/situations/established-businesses/), where a course has run before and is being revised rather than built.
 
-It is different from [Project scope baseline](https://fullypowered.ai/capabilities/project-scope-baseline/), which fixes what a project will deliver, and from [Training needs analysis](https://fullypowered.ai/capabilities/training-needs-analysis/), which counts who on a team needs which training. This one reviews a course that already has an outline. [Recorded sessions into articles](https://fullypowered.ai/capabilities/recorded-sessions-into-articles/) turns the sessions themselves into writing, once the course is running.
+It is different from [Project scope baseline](https://fullypowered.ai/workflows/project-scope-baseline/), which fixes what a project will deliver, and from [Training needs analysis](https://fullypowered.ai/workflows/training-needs-analysis/), which counts who on a team needs which training. This one reviews a course that already has an outline. [Recorded sessions into articles](https://fullypowered.ai/workflows/recorded-sessions-into-articles/) turns the sessions themselves into writing, once the course is running.
 
 ## What has to change for your company
 
@@ -47,7 +48,7 @@ Set the two limits yourself: the hours a week you consider a full load and the a
 
 ## What has been checked
 
-Fully Powered AI wrote this capability template from its own published map of the work, with no third-party text. It was editorially reviewed on 10 November 2026. It was tried on its invented example in Claude on 10 November 2026 in two runs; the record of the second is published with it. The second run had already seen the example's published review, so a clean rerun from the inputs alone has not been done. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+Fully Powered AI wrote this workflow template from its own published map of the work, with no third-party text. It was editorially reviewed on 10 November 2026. It was tried on its invented example in Claude on 10 November 2026 in two runs; the record of the second is published with it. The second run had already seen the example's published review, so a clean rerun from the inputs alone has not been done. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
 Testing in your environment means running it on the outline of a course you have just taught and know well, then checking the review against what the instructors and learners found hard: the week everyone said was too heavy, the outcome nobody got round to teaching, the topic that was assessed before it was covered. The course lead checks every line against the exports before the review goes to the teaching staff.
 
@@ -60,11 +61,11 @@ Testing in your environment means running it on the outline of a course you have
 
 ## What is in this folder
 
-- [TEMPLATE.md](TEMPLATE.md): the complete capability template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
+- [TEMPLATE.md](TEMPLATE.md): the complete workflow template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
 - [EXAMPLE.md](EXAMPLE.md): a worked example with invented data.
 - [TRIAL.md](TRIAL.md): what came out when the template was tried on its example.
 - [SKILL.md](SKILL.md): the technical file, for AI products that load packaged instructions from a folder.
-- [SOURCES.md](SOURCES.md): what the capability drew on, with licences.
+- [SOURCES.md](SOURCES.md): what the workflow template drew on, with licences.
 - [LICENSE](LICENSE): MIT. Use it, change it, make it yours.
 
 ## Start using it
@@ -74,12 +75,12 @@ Testing in your environment means running it on the outline of a course you have
 3. Give your AI assistant the instruction block and the output format from the template, with your own limits in place of the ones the instructions leave open in square brackets. Paste them in as custom instructions in ChatGPT, Claude, Copilot or Gemini, or copy this whole folder into a product that loads `SKILL.md` packages. This folder stands alone; you do not need the rest of the repository.
 4. Run it on past work first, using the reviewer checklist and acceptance tests in the template, before anyone relies on it.
 
-## Related capabilities
+## Related workflow templates
 
-- [Project scope baseline](https://fullypowered.ai/capabilities/project-scope-baseline/)
-- [Training needs analysis](https://fullypowered.ai/capabilities/training-needs-analysis/)
-- [Recorded sessions into articles](https://fullypowered.ai/capabilities/recorded-sessions-into-articles/)
+- [Project scope baseline](https://fullypowered.ai/workflow templates/project-scope-baseline/)
+- [Training needs analysis](https://fullypowered.ai/workflow templates/training-needs-analysis/)
+- [Recorded sessions into articles](https://fullypowered.ai/workflow templates/recorded-sessions-into-articles/)
 
 ## Make it yours
 
-This is the starting version. Fully Powered AI adapts capabilities to how your company works, proves them on real work and rolls them out to the roles that use them. [Talk with us](https://fullypowered.ai/contact/).
+This is the starting version. Fully Powered AI adapts workflow templates to how your company works, proves them on real work and rolls them out to the roles that use them. [Talk with us](https://fullypowered.ai/contact/).

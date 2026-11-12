@@ -2,7 +2,7 @@
 
 At term end or after staff change roles, the system owner lays the learning system's user and access exports beside current staff, class assignments and the approved role matrix. Departed users, changed roles and dormant accounts come back as questions for the data owners. Nothing is changed.
 
-*Capability template · Education · Information security · version 0.1.0 · [Capabilities Directory](https://fullypowered.ai/capabilities/learning-system-access-review/)*
+*Workflow template · Education · Information security · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflow templates/learning-system-access-review/)*
 
 ## The outcome
 
@@ -44,7 +44,7 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 - [IT & systems](https://fullypowered.ai/functions/it-and-systems/), whose administrator carries out the approved changes.
 - [Established businesses](https://fullypowered.ai/situations/established-businesses/), where staff changes and role changes leave access out of step with the people who now hold the work.
 
-It is a different piece of work from [the employee offboarding and handover checklist](https://fullypowered.ai/capabilities/employee-offboarding-and-handover-checklist/), which follows one leaving person, and from [the software subscription and vendor spend review](https://fullypowered.ai/capabilities/software-subscription-and-vendor-spend-review/), which looks at what is paid for rather than who can sign in.
+It is a different piece of work from [the employee offboarding and handover checklist](https://fullypowered.ai/workflows/employee-offboarding-and-handover-checklist/), which follows one leaving person, and from [the software subscription and vendor spend review](https://fullypowered.ai/workflows/software-subscription-and-vendor-spend-review/), which looks at what is paid for rather than who can sign in.
 
 ## What has to change for your company
 
@@ -52,9 +52,9 @@ Use your own role names, positions and areas in the matrix, and agree it with th
 
 ## What has been checked
 
-Fully Powered AI wrote this capability template. It was editorially reviewed on 10 November 2026. It was tried once on its invented example in Claude on 10 November 2026, and the record of that run is published with it. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+Fully Powered AI wrote this workflow template. It was editorially reviewed on 10 November 2026. It was tried once on its invented example in Claude on 10 November 2026, and the record of that run is published with it. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
-Testing in your environment means running it on a past term your IT administrator already knows, with cases written in advance: a departed user, an account with two possible matches, a shared account, a role that is not on the matrix. The IT administrator checks every flagged account against the system itself before an owner relies on the list. [Pilot acceptance-test preparation](https://fullypowered.ai/capabilities/pilot-acceptance-test-preparation/) sets those cases up.
+Testing in your environment means running it on a past term your IT administrator already knows, with cases written in advance: a departed user, an account with two possible matches, a shared account, a role that is not on the matrix. The IT administrator checks every flagged account against the system itself before an owner relies on the list. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) sets those cases up.
 
 - Written by Fully Powered AI.
 - Sources and rights reviewed.
@@ -65,11 +65,11 @@ Testing in your environment means running it on a past term your IT administrato
 
 ## What is in this folder
 
-- [TEMPLATE.md](TEMPLATE.md): the complete capability template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
+- [TEMPLATE.md](TEMPLATE.md): the complete workflow template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
 - [EXAMPLE.md](EXAMPLE.md): a worked example with invented data.
 - [TRIAL.md](TRIAL.md): what came out when the template was tried on its example.
 - [SKILL.md](SKILL.md): the technical file, for AI products that load packaged instructions from a folder.
-- [SOURCES.md](SOURCES.md): what the capability drew on, with licences.
+- [SOURCES.md](SOURCES.md): what the workflow template drew on, with licences.
 - [LICENSE](LICENSE): MIT. Use it, change it, make it yours.
 
 ## Start using it
@@ -79,12 +79,12 @@ Testing in your environment means running it on a past term your IT administrato
 3. Give your AI assistant the instruction block and the output format from the template, with your own limits in place of the ones the instructions leave open in square brackets. Paste them in as custom instructions in ChatGPT, Claude, Copilot or Gemini, or copy this whole folder into a product that loads `SKILL.md` packages. This folder stands alone; you do not need the rest of the repository.
 4. Run it on past work first, using the reviewer checklist and acceptance tests in the template, before anyone relies on it.
 
-## Related capabilities
+## Related workflow templates
 
-- [Employee offboarding and handover checklist](https://fullypowered.ai/capabilities/employee-offboarding-and-handover-checklist/)
-- [Software subscription and vendor spend review](https://fullypowered.ai/capabilities/software-subscription-and-vendor-spend-review/)
-- [Employee onboarding plan](https://fullypowered.ai/capabilities/employee-onboarding-plan/)
+- [Employee offboarding and handover checklist](https://fullypowered.ai/workflow templates/employee-offboarding-and-handover-checklist/)
+- [Software subscription and vendor spend review](https://fullypowered.ai/workflow templates/software-subscription-and-vendor-spend-review/)
+- [Employee onboarding plan](https://fullypowered.ai/workflow templates/employee-onboarding-plan/)
 
 ## Make it yours
 
-This is the starting version. Fully Powered AI adapts capabilities to how your company works, proves them on real work and rolls them out to the roles that use them. [Talk with us](https://fullypowered.ai/contact/).
+This is the starting version. Fully Powered AI adapts workflow templates to how your company works, proves them on real work and rolls them out to the roles that use them. [Talk with us](https://fullypowered.ai/contact/).

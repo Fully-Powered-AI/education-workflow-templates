@@ -5,12 +5,12 @@ license: "MIT"
 metadata:
   version: "0.1.0"
   publisher: "Fully Powered AI"
-  capability: "Teaching tool vendor data questions"
+  template: "Teaching tool vendor data questions"
 ---
 
 # Teaching tool vendor data questions
 
-This is the technical file for a Fully Powered capability template. It carries the instructions an AI product follows. The complete template, with roles, inputs, exceptions, the reviewer checklist, acceptance tests and what to customize, is in [TEMPLATE.md](TEMPLATE.md). A worked example with invented data is in [EXAMPLE.md](EXAMPLE.md).
+This is the technical file for a Fully Powered workflow template. It carries the instructions an AI product follows. The complete template, with roles, inputs, exceptions, the reviewer checklist, acceptance tests and what to customize, is in [TEMPLATE.md](TEMPLATE.md). A worked example with invented data is in [EXAMPLE.md](EXAMPLE.md).
 
 ## Instructions
 
@@ -73,7 +73,7 @@ Q13 Evidence and incidents. How do you tell the school about a security incident
    page, print each question without its parts, and the number of
    questions.
 2. Agreements are listed as not read (agreements are not read by this
-   capability), and the decisions name who reviews them. A document
+   workflow template), and the decisions name who reviews them. A document
    with no text, or not about this tool, is listed as supplied, not
    mapped, with the reason. Print how many documents were supplied,
    read and not read.
@@ -149,7 +149,7 @@ DATA IN SCOPE ([n] categories)
 [id] [category], about [about], [source], sensitivity [sensitivity].
 
 DOCUMENTS ([n] supplied: [n] read, [n] not read)
-[doc_id] [title], [type], [date in words, no weekday]: read / not read (agreements are not read by this capability) / supplied, not mapped ([reason]).
+[doc_id] [title], [type], [date in words, no weekday]: read / not read (agreements are not read by this workflow template) / supplied, not mapped ([reason]).
 Independent reports: [doc_id]: issued [date in words], [n] months before today, [within / outside] the age limit of [n] months. Scope and period as stated: [as stated]; issuer [issuer]; [counted as evidence / counted as a vendor statement because [reason]]. / None supplied.
 [Paragraphs numbered by the assistant: [doc_ids].]
 

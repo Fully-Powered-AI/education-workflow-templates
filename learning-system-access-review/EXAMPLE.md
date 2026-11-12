@@ -1,6 +1,6 @@
 # Learning system access review: an invented example
 
-*Illustrative example with invented data.* The academy, the people, the email addresses, the classes and the dates below are all invented. Halden Vale Academy is an invented school; its IT administrator runs the access review for the learning system on Monday 14 December 2026, three days after the autumn term ended. First come the inputs the IT administrator supplied, in full, then the review the capability returned.
+*Illustrative example with invented data.* The academy, the people, the email addresses, the classes and the dates below are all invented. Halden Vale Academy is an invented school; its IT administrator runs the access review for the learning system on Monday 14 December 2026, three days after the autumn term ended. First come the inputs the IT administrator supplied, in full, then the review the workflow template returned.
 
 ## The inputs
 

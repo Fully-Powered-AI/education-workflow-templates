@@ -2,7 +2,7 @@
 
 While year, term and session dates are being assembled, your registrar gets a draft calendar with every registration window tied to its term, and every conflicting, missing or out-of-bounds date listed as a question. Nothing is published or changed.
 
-*Capability template · Education · Operations and process improvement · version 0.1.0 · [Capabilities Directory](https://fullypowered.ai/capabilities/academic-calendar-check/)*
+*Workflow template · Education · Operations and process improvement · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflow templates/academic-calendar-check/)*
 
 ## The outcome
 
@@ -10,7 +10,7 @@ The calendar reaches the registrar as one draft instead of a pile of proposals. 
 
 The problems that normally surface after the dates are public are on the page before: two offices proposing different withdrawal deadlines, a grade deadline nobody supplied, a session that runs past its term, an add and drop date that falls after the withdrawal date, a deadline on a weekend or a closed day. Each arrives as a question for the registrar with the facts beside it.
 
-Two sessions that overlap are listed too. The capability cannot know whether the overlap is planned, so it asks; the registrar says.
+Two sessions that overlap are listed too. The workflow template cannot know whether the overlap is planned, so it asks; the registrar says.
 
 Your registrar still owns the calendar. The AI assistant picks no date between competing versions, invents none that is missing, and updates no student system, notice or web page.
 
@@ -47,9 +47,9 @@ Name your own units: year, term, session, or whatever your institution calls the
 
 ## What has been checked
 
-Fully Powered AI wrote this capability template. It was editorially reviewed on 10 November 2026. It was tried once on its invented example, on an earlier wording of the instructions, in Claude on 10 November 2026, and the record is published with it; that run saw the example's header counts early, which the record says. It has not been tested in a client environment or as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+Fully Powered AI wrote this workflow template. It was editorially reviewed on 10 November 2026. It was tried once on its invented example, on an earlier wording of the instructions, in Claude on 10 November 2026, and the record is published with it; that run saw the example's header counts early, which the record says. It has not been tested in a client environment or as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
-Testing in your environment means running it on a past year the registrar knows well, plus cases written in advance with the expected result: a withdrawal date proposed twice, a term with no grade deadline, a session that ends after its term, a deadline on a closed day. The registrar checks every date against the files before anyone relies on the draft. [Spreadsheet check before sharing](https://fullypowered.ai/capabilities/spreadsheet-check-before-sharing/) covers the same habit for any file that others will rely on.
+Testing in your environment means running it on a past year the registrar knows well, plus cases written in advance with the expected result: a withdrawal date proposed twice, a term with no grade deadline, a session that ends after its term, a deadline on a closed day. The registrar checks every date against the files before anyone relies on the draft. [Spreadsheet check before sharing](https://fullypowered.ai/workflows/spreadsheet-check-before-sharing/) covers the same habit for any file that others will rely on.
 
 - Written by Fully Powered AI.
 - Sources and rights reviewed.
@@ -60,11 +60,11 @@ Testing in your environment means running it on a past year the registrar knows 
 
 ## What is in this folder
 
-- [TEMPLATE.md](TEMPLATE.md): the complete capability template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
+- [TEMPLATE.md](TEMPLATE.md): the complete workflow template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
 - [EXAMPLE.md](EXAMPLE.md): a worked example with invented data.
 - [TRIAL.md](TRIAL.md): what came out when the template was tried on its example.
 - [SKILL.md](SKILL.md): the technical file, for AI products that load packaged instructions from a folder.
-- [SOURCES.md](SOURCES.md): what the capability drew on, with licences.
+- [SOURCES.md](SOURCES.md): what the workflow template drew on, with licences.
 - [LICENSE](LICENSE): MIT. Use it, change it, make it yours.
 
 ## Start using it
@@ -74,12 +74,12 @@ Testing in your environment means running it on a past year the registrar knows 
 3. Give your AI assistant the instruction block and the output format from the template, with your own limits in place of the ones the instructions leave open in square brackets. Paste them in as custom instructions in ChatGPT, Claude, Copilot or Gemini, or copy this whole folder into a product that loads `SKILL.md` packages. This folder stands alone; you do not need the rest of the repository.
 4. Run it on past work first, using the reviewer checklist and acceptance tests in the template, before anyone relies on it.
 
-## Related capabilities
+## Related workflow templates
 
-- [Launch checklist](https://fullypowered.ai/capabilities/launch-checklist/)
-- [Event plan](https://fullypowered.ai/capabilities/event-plan/)
-- [Spreadsheet check before sharing](https://fullypowered.ai/capabilities/spreadsheet-check-before-sharing/)
+- [Launch checklist](https://fullypowered.ai/workflow templates/launch-checklist/)
+- [Event plan](https://fullypowered.ai/workflow templates/event-plan/)
+- [Spreadsheet check before sharing](https://fullypowered.ai/workflow templates/spreadsheet-check-before-sharing/)
 
 ## Make it yours
 
-This is the starting version. Fully Powered AI adapts capabilities to how your company works, proves them on real work and rolls them out to the roles that use them. [Talk with us](https://fullypowered.ai/contact/).
+This is the starting version. Fully Powered AI adapts workflow templates to how your company works, proves them on real work and rolls them out to the roles that use them. [Talk with us](https://fullypowered.ai/contact/).

@@ -1,15 +1,15 @@
 {
-  "repository": "Fully-Powered-AI/education-capability-templates",
+  "repository": "Fully-Powered-AI/education-workflow-templates",
   "title": "Education",
   "term": "industries/education",
-  "capabilities": [
+  "templates": [
     {
       "id": "academic-calendar-check",
       "name": "Academic calendar check",
       "version": "0.1.0",
       "summary": "While year, term and session dates are being assembled, your registrar gets a draft calendar with every registration window tied to its term, and every conflicting, missing or out-of-bounds date listed as a question. Nothing is published or changed.",
       "path": "academic-calendar-check/",
-      "directory": "https://fullypowered.ai/capabilities/academic-calendar-check/"
+      "directory": "https://fullypowered.ai/workflow templates/academic-calendar-check/"
     },
     {
       "id": "course-catalog-quality-check",
@@ -17,7 +17,7 @@
       "version": "0.1.0",
       "summary": "The registrar's office gets one comparison of a department's course updates against the current catalog export: codes, titles, credits, descriptions and linked components, row by row, with every conflict set out as a question for academic review. No catalog record is changed.",
       "path": "course-catalog-quality-check/",
-      "directory": "https://fullypowered.ai/capabilities/course-catalog-quality-check/"
+      "directory": "https://fullypowered.ai/workflow templates/course-catalog-quality-check/"
     },
     {
       "id": "course-sequence-and-workload-review",
@@ -25,7 +25,7 @@
       "version": "0.1.0",
       "summary": "A course lead revising an outline for the next cohort gets a module map: learning goals, prerequisites, activities and the instructor's own time estimates, with crowded weeks and coverage gaps marked and every gap written as a question. The course lead decides what changes.",
       "path": "course-sequence-and-workload-review/",
-      "directory": "https://fullypowered.ai/capabilities/course-sequence-and-workload-review/"
+      "directory": "https://fullypowered.ai/workflow templates/course-sequence-and-workload-review/"
     },
     {
       "id": "education-vendor-data-questions",
@@ -33,7 +33,7 @@
       "version": "0.1.0",
       "summary": "Before a school or college adopts a teaching tool that would handle student or staff information, the privacy or procurement lead gets a scoped question pack on data flows, access, retention and subprocessors, with each supplied vendor document mapped to the questions and the gaps listed.",
       "path": "education-vendor-data-questions/",
-      "directory": "https://fullypowered.ai/capabilities/education-vendor-data-questions/"
+      "directory": "https://fullypowered.ai/workflow templates/education-vendor-data-questions/"
     },
     {
       "id": "learning-system-access-review",
@@ -41,7 +41,7 @@
       "version": "0.1.0",
       "summary": "At term end or after staff change roles, the system owner lays the learning system's user and access exports beside current staff, class assignments and the approved role matrix. Departed users, changed roles and dormant accounts come back as questions for the data owners. Nothing is changed.",
       "path": "learning-system-access-review/",
-      "directory": "https://fullypowered.ai/capabilities/learning-system-access-review/"
+      "directory": "https://fullypowered.ai/workflow templates/learning-system-access-review/"
     },
     {
       "id": "online-class-setup-packet",
@@ -49,7 +49,7 @@
       "version": "0.1.0",
       "summary": "The learning-platform administrator receives one complete request for an approved class: course name, section, room, responsible teacher, the people who can be invited and every roster exception, drawn from the approved details and the roster export.",
       "path": "online-class-setup-packet/",
-      "directory": "https://fullypowered.ai/capabilities/online-class-setup-packet/"
+      "directory": "https://fullypowered.ai/workflow templates/online-class-setup-packet/"
     }
   ]
 }

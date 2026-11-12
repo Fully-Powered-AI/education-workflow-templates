@@ -1,6 +1,6 @@
 # Teaching tool vendor data questions: an invented example
 
-*Illustrative example with invented data.* The school, the tool, the vendor, the companies, the people, the dates and the documents below are all invented. The school is an invented secondary school, School A, whose English department wants to adopt Tool A, an online reading-practice tool from Vendor A. The business manager is preparing the review for the privacy lead and the security lead, with the head teacher approving. First come the inputs the business manager supplied, in full, then the document the capability returned.
+*Illustrative example with invented data.* The school, the tool, the vendor, the companies, the people, the dates and the documents below are all invented. The school is an invented secondary school, School A, whose English department wants to adopt Tool A, an online reading-practice tool from Vendor A. The business manager is preparing the review for the privacy lead and the security lead, with the head teacher approving. First come the inputs the business manager supplied, in full, then the document the workflow template returned.
 
 ## The inputs
 
@@ -82,7 +82,7 @@ D5 was supplied as a file; its text is not pasted here.
 
 None supplied.
 
-## What the capability returned
+## What the workflow template returned
 
 The page below is the output of the run recorded in `trial.md`, on exactly these inputs.
 
@@ -105,7 +105,7 @@ D1 Privacy policy, policy, 14 August 2026: read.
 D2 Security overview page, security page, 2 September 2026: read.
 D3 Subprocessor list, subprocessor list, 2 September 2026: read.
 D4 Independent audit summary, independent report, 30 March 2025: read.
-D5 Master services agreement, agreement, 1 August 2026: not read (agreements are not read by this capability).
+D5 Master services agreement, agreement, 1 August 2026: not read (agreements are not read by this workflow template).
 Independent reports: D4: issued 30 March 2025, 19 months before today, within the age limit of 24 months. Scope and period as stated: the hosted Tool A service, 1 January 2024 to 31 December 2024; issuer Auditor X; counted as evidence.
 
 QUESTION PACK (15 questions, to put to Vendor A)
