@@ -2,7 +2,7 @@
 
 The registrar's office gets one comparison of a department's course updates against the current catalog export: codes, titles, credits, descriptions and linked components, row by row, with every conflict set out as a question for academic review. No catalog record is changed.
 
-*Workflow template · Education · Operations and process improvement · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflow templates/course-catalog-quality-check/)*
+*Workflow template · Education · Operations and process improvement · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/course-catalog-quality-check/)*
 
 ## The outcome
 
@@ -70,8 +70,8 @@ Testing in your environment means running it on a past batch your registrar's of
 
 ## Related workflow templates
 
-- [Dataset profile](https://fullypowered.ai/workflow templates/dataset-profile/)
-- [Spreadsheet check before sharing](https://fullypowered.ai/workflow templates/spreadsheet-check-before-sharing/)
+- [Dataset profile](https://fullypowered.ai/workflows/dataset-profile/)
+- [Spreadsheet check before sharing](https://fullypowered.ai/workflows/spreadsheet-check-before-sharing/)
 
 ## Make it yours
 

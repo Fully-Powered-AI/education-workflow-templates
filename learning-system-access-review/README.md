@@ -2,7 +2,7 @@
 
 At term end or after staff change roles, the system owner lays the learning system's user and access exports beside current staff, class assignments and the approved role matrix. Departed users, changed roles and dormant accounts come back as questions for the data owners. Nothing is changed.
 
-*Workflow template · Education · Information security · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflow templates/learning-system-access-review/)*
+*Workflow template · Education · Information security · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/learning-system-access-review/)*
 
 ## The outcome
 
@@ -81,9 +81,9 @@ Testing in your environment means running it on a past term your IT administrato
 
 ## Related workflow templates
 
-- [Employee offboarding and handover checklist](https://fullypowered.ai/workflow templates/employee-offboarding-and-handover-checklist/)
-- [Software subscription and vendor spend review](https://fullypowered.ai/workflow templates/software-subscription-and-vendor-spend-review/)
-- [Employee onboarding plan](https://fullypowered.ai/workflow templates/employee-onboarding-plan/)
+- [Employee offboarding and handover checklist](https://fullypowered.ai/workflows/employee-offboarding-and-handover-checklist/)
+- [Software subscription and vendor spend review](https://fullypowered.ai/workflows/software-subscription-and-vendor-spend-review/)
+- [Employee onboarding plan](https://fullypowered.ai/workflows/employee-onboarding-plan/)
 
 ## Make it yours
 

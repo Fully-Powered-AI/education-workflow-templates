@@ -2,7 +2,7 @@
 
 A course lead revising an outline for the next cohort gets a module map: learning goals, prerequisites, activities and the instructor's own time estimates, with crowded weeks and coverage gaps marked and every gap written as a question. The course lead decides what changes.
 
-*Workflow template · Education · People and HR · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflow templates/course-sequence-and-workload-review/)*
+*Workflow template · Education · People and HR · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/course-sequence-and-workload-review/)*
 
 ## The outcome
 
@@ -77,9 +77,9 @@ Testing in your environment means running it on the outline of a course you have
 
 ## Related workflow templates
 
-- [Project scope baseline](https://fullypowered.ai/workflow templates/project-scope-baseline/)
-- [Training needs analysis](https://fullypowered.ai/workflow templates/training-needs-analysis/)
-- [Recorded sessions into articles](https://fullypowered.ai/workflow templates/recorded-sessions-into-articles/)
+- [Project scope baseline](https://fullypowered.ai/workflows/project-scope-baseline/)
+- [Training needs analysis](https://fullypowered.ai/workflows/training-needs-analysis/)
+- [Recorded sessions into articles](https://fullypowered.ai/workflows/recorded-sessions-into-articles/)
 
 ## Make it yours
 

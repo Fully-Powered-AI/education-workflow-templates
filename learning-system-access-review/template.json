@@ -4,7 +4,7 @@
   "kind": "workflow-template",
   "version": "0.1.0",
   "summary": "At term end or after staff change roles, the system owner lays the learning system's user and access exports beside current staff, class assignments and the approved role matrix. Departed users, changed roles and dormant accounts come back as questions for the data owners. Nothing is changed.",
-  "directory": "https://fullypowered.ai/workflow templates/learning-system-access-review/",
+  "directory": "https://fullypowered.ai/workflows/learning-system-access-review/",
   "primary_function": "functions/information-security",
   "functions": [
     "functions/information-security",

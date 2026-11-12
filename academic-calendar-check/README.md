@@ -2,7 +2,7 @@
 
 While year, term and session dates are being assembled, your registrar gets a draft calendar with every registration window tied to its term, and every conflicting, missing or out-of-bounds date listed as a question. Nothing is published or changed.
 
-*Workflow template · Education · Operations and process improvement · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflow templates/academic-calendar-check/)*
+*Workflow template · Education · Operations and process improvement · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/academic-calendar-check/)*
 
 ## The outcome
 
@@ -76,9 +76,9 @@ Testing in your environment means running it on a past year the registrar knows 
 
 ## Related workflow templates
 
-- [Launch checklist](https://fullypowered.ai/workflow templates/launch-checklist/)
-- [Event plan](https://fullypowered.ai/workflow templates/event-plan/)
-- [Spreadsheet check before sharing](https://fullypowered.ai/workflow templates/spreadsheet-check-before-sharing/)
+- [Launch checklist](https://fullypowered.ai/workflows/launch-checklist/)
+- [Event plan](https://fullypowered.ai/workflows/event-plan/)
+- [Spreadsheet check before sharing](https://fullypowered.ai/workflows/spreadsheet-check-before-sharing/)
 
 ## Make it yours
 

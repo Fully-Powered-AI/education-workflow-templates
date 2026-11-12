@@ -2,7 +2,7 @@
 
 Before a school or college adopts a teaching tool that would handle student or staff information, the privacy or procurement lead gets a scoped question pack on data flows, access, retention and subprocessors, with each supplied vendor document mapped to the questions and the gaps listed.
 
-*Workflow template · Education · Compliance, risk and privacy · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflow templates/education-vendor-data-questions/)*
+*Workflow template · Education · Compliance, risk and privacy · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/education-vendor-data-questions/)*
 
 ## The outcome
 
@@ -74,9 +74,9 @@ Testing in your environment means running it on a tool you have already assessed
 
 ## Related workflow templates
 
-- [Vendor quote comparison](https://fullypowered.ai/workflow templates/vendor-quote-comparison/)
-- [Vendor renewal review](https://fullypowered.ai/workflow templates/vendor-renewal-review/)
-- [Pilot acceptance-test preparation](https://fullypowered.ai/workflow templates/pilot-acceptance-test-preparation/)
+- [Vendor quote comparison](https://fullypowered.ai/workflows/vendor-quote-comparison/)
+- [Vendor renewal review](https://fullypowered.ai/workflows/vendor-renewal-review/)
+- [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/)
 
 ## Make it yours
 

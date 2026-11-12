@@ -2,7 +2,7 @@
 
 The learning-platform administrator receives one complete request for an approved class: course name, section, room, responsible teacher, the people who can be invited and every roster exception, drawn from the approved details and the roster export.
 
-*Workflow template · Education · IT and systems · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflow templates/online-class-setup-packet/)*
+*Workflow template · Education · IT and systems · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/online-class-setup-packet/)*
 
 ## The outcome
 
@@ -71,8 +71,8 @@ Testing in your environment means running it on a class the administrator has al
 
 ## Related workflow templates
 
-- [Employee onboarding plan](https://fullypowered.ai/workflow templates/employee-onboarding-plan/)
-- [Shared folder filing plan](https://fullypowered.ai/workflow templates/shared-folder-filing-plan/)
+- [Employee onboarding plan](https://fullypowered.ai/workflows/employee-onboarding-plan/)
+- [Shared folder filing plan](https://fullypowered.ai/workflows/shared-folder-filing-plan/)
 
 ## Make it yours
 

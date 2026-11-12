@@ -4,7 +4,7 @@
   "kind": "workflow-template",
   "version": "0.1.0",
   "summary": "The learning-platform administrator receives one complete request for an approved class: course name, section, room, responsible teacher, the people who can be invited and every roster exception, drawn from the approved details and the roster export.",
-  "directory": "https://fullypowered.ai/workflow templates/online-class-setup-packet/",
+  "directory": "https://fullypowered.ai/workflows/online-class-setup-packet/",
   "primary_function": "functions/it-and-systems",
   "functions": [
     "functions/it-and-systems",

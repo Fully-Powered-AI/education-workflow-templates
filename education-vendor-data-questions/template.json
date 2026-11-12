@@ -4,7 +4,7 @@
   "kind": "workflow-template",
   "version": "0.1.0",
   "summary": "Before a school or college adopts a teaching tool that would handle student or staff information, the privacy or procurement lead gets a scoped question pack on data flows, access, retention and subprocessors, with each supplied vendor document mapped to the questions and the gaps listed.",
-  "directory": "https://fullypowered.ai/workflow templates/education-vendor-data-questions/",
+  "directory": "https://fullypowered.ai/workflows/education-vendor-data-questions/",
   "primary_function": "functions/compliance-risk-and-privacy",
   "functions": [
     "functions/compliance-risk-and-privacy",
