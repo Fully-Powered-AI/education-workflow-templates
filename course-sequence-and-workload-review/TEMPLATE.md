@@ -218,4 +218,4 @@ teaching staff.
 
 ## Version notes
 
-- 0.1.0, 10 November 2026. Written by Fully Powered AI. Tried on its invented example in Claude on 10 November 2026 in two runs: the clarifications added after the first (sort order, Needs merging, gap counting, one question for a missing estimate, weekday, question order, the kind label for an outcome not in the list, an empty week) were run once more on the example, by a run that had already seen the example's published review, so that run is weak evidence. A clean rerun from the inputs alone has not been done. Not yet tested in a client environment.
+- 0.1.0, 10 November 2026. Written by FullyPowered AI. Tried on its invented example in Claude on 10 November 2026 in two runs: the clarifications added after the first (sort order, Needs merging, gap counting, one question for a missing estimate, weekday, question order, the kind label for an outcome not in the list, an empty week) were run once more on the example, by a run that had already seen the example's published review, so that run is weak evidence. A clean rerun from the inputs alone has not been done. Not yet tested in a client environment.

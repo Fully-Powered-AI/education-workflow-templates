@@ -48,11 +48,11 @@ Set the two limits yourself: the hours a week you consider a full load and the a
 
 ## What has been checked
 
-Fully Powered AI wrote this workflow template from its own published map of the work, with no third-party text. It was editorially reviewed on 10 November 2026. It was tried on its invented example in Claude on 10 November 2026 in two runs; the record of the second is published with it. The second run had already seen the example's published review, so a clean rerun from the inputs alone has not been done. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+FullyPowered AI wrote this workflow template from its own published map of the work, with no third-party text. It was editorially reviewed on 10 November 2026. It was tried on its invented example in Claude on 10 November 2026 in two runs; the record of the second is published with it. The second run had already seen the example's published review, so a clean rerun from the inputs alone has not been done. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
 Testing in your environment means running it on the outline of a course you have just taught and know well, then checking the review against what the instructors and learners found hard: the week everyone said was too heavy, the outcome nobody got round to teaching, the topic that was assessed before it was covered. The course lead checks every line against the exports before the review goes to the teaching staff.
 
-- Written by Fully Powered AI.
+- Written by FullyPowered AI.
 - Sources and rights reviewed.
 - Editorially reviewed on 10 November 2026.
 - Package format checked by script on every release.
@@ -83,4 +83,4 @@ Testing in your environment means running it on the outline of a course you have
 
 ## Make it yours
 
-This is the starting version. Fully Powered AI adapts workflow templates to how your company works, proves them on real work and rolls them out to the roles that use them. [Talk with us](https://fullypowered.ai/contact/).
+This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/).
