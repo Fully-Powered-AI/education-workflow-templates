@@ -1,10 +1,17 @@
 # Learning system access review
 
-At term end or after staff change roles, the system owner lays the learning system's user and access exports beside current staff, class assignments and the approved role matrix. Departed users, changed roles and dormant accounts come back as questions for the data owners. Nothing is changed.
+User and access exports set beside current staff, classes and the approved role matrix, with questions for data owners. Nothing is changed; people decide.
 
-*Workflow template · Education · Information security · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/learning-system-access-review/)*
+> [!TIP]
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Learning system access review on our website](https://fullypowered.ai/workflows/learning-system-access-review/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=education-learning-system-access-review&from=gh-learning-system-access-review) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
-**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/learning-system-access-review/?from=gh-learning-system-access-review)
+**Quick start**
+
+1. Read EXAMPLE.md to see what a good result looks like.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+3. Read what comes back. It marks what it checked and what is left for you.
+
+*Workflow template · Education · Information security · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/learning-system-access-review/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=education-learning-system-access-review&from=gh-learning-system-access-review)*
 
 ## The outcome
 
@@ -39,14 +46,14 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
-- [Education](https://fullypowered.ai/industries/education/), where student records sit in the learning system and access should follow the term.
-- [Nonprofits](https://fullypowered.ai/industries/nonprofits/), where volunteers and short-term staff hold accounts in the program and learning systems.
-- [Government](https://fullypowered.ai/industries/government/), where training platforms and records systems need a periodic access check.
-- [Information security](https://fullypowered.ai/functions/information-security/), which owns the question of who can reach what.
-- [IT & systems](https://fullypowered.ai/functions/it-and-systems/), whose administrator carries out the approved changes.
-- [Established businesses](https://fullypowered.ai/situations/established-businesses/), where staff changes and role changes leave access out of step with the people who now hold the work.
+- [Education](https://fullypowered.ai/industries/education/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=education-learning-system-access-review&from=gh-learning-system-access-review), where student records sit in the learning system and access should follow the term.
+- [Nonprofits](https://fullypowered.ai/industries/nonprofits/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=education-learning-system-access-review&from=gh-learning-system-access-review), where volunteers and short-term staff hold accounts in the program and learning systems.
+- [Government](https://fullypowered.ai/industries/government/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=education-learning-system-access-review&from=gh-learning-system-access-review), where training platforms and records systems need a periodic access check.
+- [Information security](https://fullypowered.ai/functions/information-security/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=education-learning-system-access-review&from=gh-learning-system-access-review), which owns the question of who can reach what.
+- [IT & systems](https://fullypowered.ai/functions/it-and-systems/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=education-learning-system-access-review&from=gh-learning-system-access-review), whose administrator carries out the approved changes.
+- [Established businesses](https://fullypowered.ai/situations/established-businesses/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=education-learning-system-access-review&from=gh-learning-system-access-review), where staff changes and role changes leave access out of step with the people who now hold the work.
 
-It is a different piece of work from [the employee offboarding and handover checklist](https://fullypowered.ai/workflows/employee-offboarding-and-handover-checklist/), which follows one leaving person, and from [the software subscription and vendor spend review](https://fullypowered.ai/workflows/software-subscription-and-vendor-spend-review/), which looks at what is paid for rather than who can sign in.
+It is a different piece of work from [the employee offboarding and handover checklist](https://fullypowered.ai/workflows/employee-offboarding-and-handover-checklist/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=education-learning-system-access-review&from=gh-learning-system-access-review), which follows one leaving person, and from [the software subscription and vendor spend review](https://fullypowered.ai/workflows/software-subscription-and-vendor-spend-review/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=education-learning-system-access-review&from=gh-learning-system-access-review), which looks at what is paid for rather than who can sign in.
 
 ## What has to change for your company
 
@@ -56,7 +63,7 @@ Use your own role names, positions and areas in the matrix, and agree it with th
 
 FullyPowered AI wrote this workflow template. It was editorially reviewed on 10 November 2026. It was tried once on its invented example in Claude on 10 November 2026, and the record of that run is published with it. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
-Testing in your environment means running it on a past term your IT administrator already knows, with cases written in advance: a departed user, an account with two possible matches, a shared account, a role that is not on the matrix. The IT administrator checks every flagged account against the system itself before an owner relies on the list. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) sets those cases up.
+Testing in your environment means running it on a past term your IT administrator already knows, with cases written in advance: a departed user, an account with two possible matches, a shared account, a role that is not on the matrix. The IT administrator checks every flagged account against the system itself before an owner relies on the list. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=education-learning-system-access-review&from=gh-learning-system-access-review) sets those cases up.
 
 - Written by FullyPowered AI.
 - Sources and rights reviewed.
@@ -83,10 +90,10 @@ Testing in your environment means running it on a past term your IT administrato
 
 ## Related workflow templates
 
-- [Employee offboarding and handover checklist](https://fullypowered.ai/workflows/employee-offboarding-and-handover-checklist/)
-- [Software subscription and vendor spend review](https://fullypowered.ai/workflows/software-subscription-and-vendor-spend-review/)
-- [Employee onboarding plan](https://fullypowered.ai/workflows/employee-onboarding-plan/)
+- [Employee offboarding and handover checklist](https://fullypowered.ai/workflows/employee-offboarding-and-handover-checklist/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=education-learning-system-access-review&from=gh-learning-system-access-review)
+- [Software subscription and vendor spend review](https://fullypowered.ai/workflows/software-subscription-and-vendor-spend-review/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=education-learning-system-access-review&from=gh-learning-system-access-review)
+- [Employee onboarding plan](https://fullypowered.ai/workflows/employee-onboarding-plan/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=education-learning-system-access-review&from=gh-learning-system-access-review)
 
 ## Make it yours
 
-This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/).
+This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=education-learning-system-access-review&from=gh-learning-system-access-review).

@@ -1,14 +1,55 @@
-# FullyPowered Workflow Templates: Education
+# AI workflow templates for school and college administration
 
-A term that starts ready. These workflow templates are written for the administrative side of education. They prepare the checking and setting up around calendars, catalogs and courses. They grade nothing and decide nothing about a student: the institution's people do.
+FullyPowered Workflow Templates for schools, colleges and training providers turn the AI your organization already pays for into a team that knows how the work is done: a registrar with a draft academic calendar and every date conflict listed, a course lead with a module map and crowded weeks marked, a learning-platform administrator with a complete online class setup request prepared. 6 workflow templates, made to be customized and deployed. All plain Markdown, all free, MIT license.
 
-**These are templates, made to be customized and deployed.** They are examples and a starting point, not a complete list: copy one, change it to fit how your team does the work, and run it in the AI you already pay for.
+We are FullyPowered AI. We build AI workflows for companies, and these are the templates we start from. We publish them because a good starting point should be open to everyone. Copy one. Change it. Make it yours.
 
-**FullyPowered AI customizes and builds AI workflows that run in ChatGPT, Claude, Copilot and Gemini**, including ones that run several steps. [More examples for schools, colleges and training providers](https://fullypowered.ai/industries/education/?from=gh-education) · [Have one built for your team](https://fullypowered.ai/pricing/?from=gh-education)
+> [!TIP]
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** These are templates, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See more examples for schools, colleges and training providers](https://fullypowered.ai/industries/education/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=education-readme&from=gh-education-readme) · [Have one built for your team](https://fullypowered.ai/pricing/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=education-readme&from=gh-education-readme) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
-This repository holds 6 workflow templates for the administrative staff of schools, colleges and training providers. Each one is a single piece of work with its own folder: what it is for and who starts it, the complete template an AI assistant follows, a worked example with invented data, what to change for your company, what has been checked, and its sources.
+**Who this is for**
 
-## The workflow templates
+- Heads and principals who want the school or college office running with the AI it already pays for.
+- Registrars and department leads who want a workflow their office can run this term.
+- The administrator who does the work, who gets a precise way to prepare it and still decides.
+
+**What these are for**
+
+- **Your best way of doing it, for the whole team.** One piece of work, written down precisely enough that an assistant prepares it the same way every time.
+- **Work you can check.** Every template says what it needs, what it produces, what it checked and what it could not.
+- **A person decides.** Anything that sends, posts, pays or changes a record waits for someone to approve it.
+- **Tied into your business systems.** A workflow can be designed to pull from the systems your company already runs, and even push data back into them, with guardrails and a person approving. [Browse the Connectors Directory](https://fullypowered.ai/connectors/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=education-readme&from=gh-education-readme).
+- **Free, open and portable.** MIT-licensed plain instructions that run in the assistant or agent your team already uses: ChatGPT, Claude, Claude Code, Claude Cowork, Codex, Copilot, Gemini, Grok, Perplexity.
+
+**Quick start**
+
+1. **Check next year's term dates in ten minutes.** Open ChatGPT, Claude, Copilot or Gemini. Copy the text below into a new chat. Replace the square brackets with your own list of proposed dates, then send it. Nothing needs to be installed or signed up for.
+
+   ```text
+   You are helping a registrar check the proposed dates for one academic year. You check and list. People decide. Never choose between competing dates, never invent a missing date, and never change, publish or send anything. Here are my terms and sessions: [list each year, term and session]. Here are the proposed dates, with who proposed each one: [paste dates]. Here are our closed days: [paste closed days]. Build a draft calendar in date order, with each term followed by its sessions and each date marked with where it came from. Then list numbered questions for the registrar: conflicting versions, missing dates, dates outside their term, dates in the wrong order, overlaps, and dates on closed days. Do not repeat any student names.
+   ```
+
+2. Read what comes back. It marks what it checked and what is left for you. What comes back, with invented dates:
+
+   ```text
+   ACADEMIC CALENDAR CHECK: the College, academic year 2027-28
+
+   For: the Registrar. Prepared: Tue 2026-11-10, from the structure (6 units), the date proposals (25 rows), the closed days (3 rows) and the settings.
+   Column check: all headers matched.
+   Proposals placed on the calendar: 24. Proposals for units not in the structure: 1. Findings: 11.
+
+   DRAFT CALENDAR
+
+   Y28 Academic year 2027-28 (year): Mon 2027-08-30 to Fri 2028-05-05 (P01).
+   ```
+
+3. Stop there. You will know if this is for you. When you want it fitted to your company, or built into your agents, [that is what we do](https://fullypowered.ai/pricing/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=education-readme&from=gh-education-readme).
+
+In every workflow template, your people start the work, supply the inputs and decide; the template prepares and checks, and grades nothing and decides nothing about a student.
+
+These are examples and a starting point, made to be changed to fit how your institution works. Work that is not here can be built for your institution, as one step or as many.
+
+## The workflow templates here today
 
 - **[Academic calendar check](academic-calendar-check/)**: While year, term and session dates are being assembled, your registrar gets a draft calendar with every registration window tied to its term, and every conflicting, missing or out-of-bounds date listed as a question. Nothing is published or changed.
 - **[Course catalog quality check](course-catalog-quality-check/)**: The registrar's office gets one comparison of a department's course updates against the current catalog export: codes, titles, credits, descriptions and linked components, row by row, with every conflict set out as a question for academic review. No catalog record is changed.
@@ -35,10 +76,10 @@ Each folder says exactly what was checked and when: who wrote it, that its sourc
 
 ## More workflow templates
 
-The [FullyPowered Workflows Directory](https://fullypowered.ai/workflows/) lists every workflow template across functions and industries, with search. A machine-readable list of this repository is in [index.json](index.json).
+The [FullyPowered Workflows Directory](https://fullypowered.ai/workflows/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=education-readme&from=gh-education-readme) lists every workflow template across functions and industries, with search. A machine-readable list of this repository is in [index.json](index.json).
 
-For the work these templates come from, by area of the business and by task, see [AI workflow examples for schools, colleges and training providers](https://fullypowered.ai/industries/education/).
+For the work these templates come from, by area of the business and by task, see [AI workflow examples for schools, colleges and training providers](https://fullypowered.ai/industries/education/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=education-readme&from=gh-education-readme).
 
 ## Licence and credits
 
-MIT, in [LICENSE](LICENSE) and in every folder. Each folder's SOURCES.md names what the workflow template drew on. Published by [FullyPowered AI](https://fullypowered.ai/).
+MIT, in [LICENSE](LICENSE) and in every folder. Each folder's SOURCES.md names what the workflow template drew on. Published by [FullyPowered AI](https://fullypowered.ai/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=education-readme&from=gh-education-readme).

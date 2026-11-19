@@ -1,10 +1,17 @@
 # Academic calendar check
 
-While year, term and session dates are being assembled, your registrar gets a draft calendar with every registration window tied to its term, and every conflicting, missing or out-of-bounds date listed as a question. Nothing is published or changed.
+A draft academic calendar with every registration window tied to its term, and conflicting or missing dates listed as questions. The registrar decides.
 
-*Workflow template · Education · Operations and process improvement · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/academic-calendar-check/)*
+> [!TIP]
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Academic calendar check on our website](https://fullypowered.ai/workflows/academic-calendar-check/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=education-academic-calendar-check&from=gh-education-academic-calendar-check) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
-**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/academic-calendar-check/?from=gh-education-academic-calendar-check)
+**Quick start**
+
+1. Read EXAMPLE.md to see what a good result looks like.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+3. Read what comes back. It marks what it checked and what is left for you.
+
+*Workflow template · Education · Operations and process improvement · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/academic-calendar-check/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=education-academic-calendar-check&from=gh-education-academic-calendar-check)*
 
 ## The outcome
 
@@ -37,11 +44,11 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
-- [Operations and process improvement](https://fullypowered.ai/functions/operations-and-process-improvement/), where a dated calendar is a process that needs a check before it goes out.
-- [Project and delivery](https://fullypowered.ai/functions/project-and-delivery/), where dated windows that depend on one another are tracked to a fixed outcome.
-- [Education](https://fullypowered.ai/industries/education/), where the registrar publishes the year, term and session dates that students, departments and communications rely on.
-- [Government](https://fullypowered.ai/industries/government/), where public schools and colleges publish a calendar that others plan around.
-- [Established businesses](https://fullypowered.ai/situations/established-businesses/), for a company that runs its own school or training academy and assembles the dates from several offices.
+- [Operations and process improvement](https://fullypowered.ai/functions/operations-and-process-improvement/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=education-academic-calendar-check&from=gh-education-academic-calendar-check), where a dated calendar is a process that needs a check before it goes out.
+- [Project and delivery](https://fullypowered.ai/functions/project-and-delivery/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=education-academic-calendar-check&from=gh-education-academic-calendar-check), where dated windows that depend on one another are tracked to a fixed outcome.
+- [Education](https://fullypowered.ai/industries/education/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=education-academic-calendar-check&from=gh-education-academic-calendar-check), where the registrar publishes the year, term and session dates that students, departments and communications rely on.
+- [Government](https://fullypowered.ai/industries/government/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=education-academic-calendar-check&from=gh-education-academic-calendar-check), where public schools and colleges publish a calendar that others plan around.
+- [Established businesses](https://fullypowered.ai/situations/established-businesses/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=education-academic-calendar-check&from=gh-education-academic-calendar-check), for a company that runs its own school or training academy and assembles the dates from several offices.
 
 ## What has to change for your company
 
@@ -51,7 +58,7 @@ Name your own units: year, term, session, or whatever your institution calls the
 
 FullyPowered AI wrote this workflow template. It was editorially reviewed on 10 November 2026. It was tried once on its invented example, on an earlier wording of the instructions, in Claude on 10 November 2026, and the record is published with it; that run saw the example's header counts early, which the record says. It has not been tested in a client environment or as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
-Testing in your environment means running it on a past year the registrar knows well, plus cases written in advance with the expected result: a withdrawal date proposed twice, a term with no grade deadline, a session that ends after its term, a deadline on a closed day. The registrar checks every date against the files before anyone relies on the draft. [Spreadsheet check before sharing](https://fullypowered.ai/workflows/spreadsheet-check-before-sharing/) covers the same habit for any file that others will rely on.
+Testing in your environment means running it on a past year the registrar knows well, plus cases written in advance with the expected result: a withdrawal date proposed twice, a term with no grade deadline, a session that ends after its term, a deadline on a closed day. The registrar checks every date against the files before anyone relies on the draft. [Spreadsheet check before sharing](https://fullypowered.ai/workflows/spreadsheet-check-before-sharing/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=education-academic-calendar-check&from=gh-education-academic-calendar-check) covers the same habit for any file that others will rely on.
 
 - Written by FullyPowered AI.
 - Sources and rights reviewed.
@@ -78,10 +85,10 @@ Testing in your environment means running it on a past year the registrar knows 
 
 ## Related workflow templates
 
-- [Launch checklist](https://fullypowered.ai/workflows/launch-checklist/)
-- [Event plan](https://fullypowered.ai/workflows/event-plan/)
-- [Spreadsheet check before sharing](https://fullypowered.ai/workflows/spreadsheet-check-before-sharing/)
+- [Launch checklist](https://fullypowered.ai/workflows/launch-checklist/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=education-academic-calendar-check&from=gh-education-academic-calendar-check)
+- [Event plan](https://fullypowered.ai/workflows/event-plan/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=education-academic-calendar-check&from=gh-education-academic-calendar-check)
+- [Spreadsheet check before sharing](https://fullypowered.ai/workflows/spreadsheet-check-before-sharing/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=education-academic-calendar-check&from=gh-education-academic-calendar-check)
 
 ## Make it yours
 
-This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/).
+This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=education-academic-calendar-check&from=gh-education-academic-calendar-check).

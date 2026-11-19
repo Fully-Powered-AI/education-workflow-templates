@@ -1,10 +1,17 @@
 # Online class setup packet
 
-The learning-platform administrator receives one complete request for an approved class: course name, section, room, responsible teacher, the people who can be invited and every roster exception, drawn from the approved details and the roster export.
+Get one complete request for an approved online class, with the teacher, who can be invited and every roster exception. A person decides.
 
-*Workflow template · Education · IT and systems · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/online-class-setup-packet/)*
+> [!TIP]
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Online class setup packet on our website](https://fullypowered.ai/workflows/online-class-setup-packet/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=education-online-class-setup-packet&from=gh-education-online-class-setup-packet) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
-**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/online-class-setup-packet/?from=gh-education-online-class-setup-packet)
+**Quick start**
+
+1. Read EXAMPLE.md to see what a good result looks like.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+3. Read what comes back. It marks what it checked and what is left for you.
+
+*Workflow template · Education · IT and systems · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/online-class-setup-packet/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=education-online-class-setup-packet&from=gh-education-online-class-setup-packet)*
 
 ## The outcome
 
@@ -32,11 +39,11 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
-- [IT and systems](https://fullypowered.ai/functions/it-and-systems/), where the administrator receives class requests that arrive piecemeal and incomplete.
-- [Executive and office support](https://fullypowered.ai/functions/executive-and-office-support/), where an academic office assembles the approved details and the roster.
-- [Education](https://fullypowered.ai/industries/education/), where schools, colleges and training providers open classes every term.
-- [Government](https://fullypowered.ai/industries/government/), where public training bodies and agencies run classes for staff or the public.
-- [Established businesses](https://fullypowered.ai/situations/established-businesses/), where the same work repeats every term and a fixed packet saves the retelling.
+- [IT and systems](https://fullypowered.ai/functions/it-and-systems/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=education-online-class-setup-packet&from=gh-education-online-class-setup-packet), where the administrator receives class requests that arrive piecemeal and incomplete.
+- [Executive and office support](https://fullypowered.ai/functions/executive-and-office-support/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=education-online-class-setup-packet&from=gh-education-online-class-setup-packet), where an academic office assembles the approved details and the roster.
+- [Education](https://fullypowered.ai/industries/education/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=education-online-class-setup-packet&from=gh-education-online-class-setup-packet), where schools, colleges and training providers open classes every term.
+- [Government](https://fullypowered.ai/industries/government/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=education-online-class-setup-packet&from=gh-education-online-class-setup-packet), where public training bodies and agencies run classes for staff or the public.
+- [Established businesses](https://fullypowered.ai/situations/established-businesses/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=education-online-class-setup-packet&from=gh-education-online-class-setup-packet), where the same work repeats every term and a fixed packet saves the retelling.
 
 ## What has to change for your company
 
@@ -46,7 +53,7 @@ Use your own column headers for the roster and teacher files, or rename the defa
 
 FullyPowered AI wrote this workflow template. It was editorially reviewed on 10 November 2026. It was tried once on its invented example in Claude on 10 November 2026; the record is published with it, and lists the points where the instructions were ambiguous. Edits made afterward to settle those points, and to add two parts to the output format, have not been run again; the trial record lists them. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
-Testing in your environment means running it on a class the administrator has already set up by hand, plus hard cases written in advance: a teacher not yet confirmed, a student listed under two numbers, a blank enrolment status, a name on the invitation list who is not on the roster, a header that does not match. The administrator checks every line against the approval and the export before anyone relies on the packet. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) sets those cases up, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) describes the record we keep.
+Testing in your environment means running it on a class the administrator has already set up by hand, plus hard cases written in advance: a teacher not yet confirmed, a student listed under two numbers, a blank enrolment status, a name on the invitation list who is not on the roster, a header that does not match. The administrator checks every line against the approval and the export before anyone relies on the packet. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=education-online-class-setup-packet&from=gh-education-online-class-setup-packet) sets those cases up, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=education-online-class-setup-packet&from=gh-education-online-class-setup-packet) describes the record we keep.
 
 - Written by FullyPowered AI.
 - Sources and rights reviewed.
@@ -73,9 +80,9 @@ Testing in your environment means running it on a class the administrator has al
 
 ## Related workflow templates
 
-- [Employee onboarding plan](https://fullypowered.ai/workflows/employee-onboarding-plan/)
-- [Shared folder filing plan](https://fullypowered.ai/workflows/shared-folder-filing-plan/)
+- [Employee onboarding plan](https://fullypowered.ai/workflows/employee-onboarding-plan/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=education-online-class-setup-packet&from=gh-education-online-class-setup-packet)
+- [Shared folder filing plan](https://fullypowered.ai/workflows/shared-folder-filing-plan/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=education-online-class-setup-packet&from=gh-education-online-class-setup-packet)
 
 ## Make it yours
 
-This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/).
+This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=education-online-class-setup-packet&from=gh-education-online-class-setup-packet).

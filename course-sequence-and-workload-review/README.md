@@ -1,10 +1,17 @@
 # Course sequence and workload review
 
-A course lead revising an outline for the next cohort gets a module map: learning goals, prerequisites, activities and the instructor's own time estimates, with crowded weeks and coverage gaps marked and every gap written as a question. The course lead decides what changes.
+Get one module map of a course, with crowded weeks and coverage gaps marked as questions. The course lead decides what changes.
 
-*Workflow template · Education · People and HR · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/course-sequence-and-workload-review/)*
+> [!TIP]
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Course sequence and workload review on our website](https://fullypowered.ai/workflows/course-sequence-and-workload-review/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=education-course-sequence-and-workload-review&from=gh-course-sequence-and-workload-review) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
-**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/course-sequence-and-workload-review/?from=gh-course-sequence-and-workload-review)
+**Quick start**
+
+1. Read EXAMPLE.md to see what a good result looks like.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+3. Read what comes back. It marks what it checked and what is left for you.
+
+*Workflow template · Education · People and HR · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/course-sequence-and-workload-review/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=education-course-sequence-and-workload-review&from=gh-course-sequence-and-workload-review)*
 
 ## The outcome
 
@@ -35,14 +42,14 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
-- [Education](https://fullypowered.ai/industries/education/), where the next cohort's outline is revised from the last one's and the pressure points are easy to miss across a spreadsheet.
-- [Professional services](https://fullypowered.ai/industries/professional-services/), for the firms that run their own training programmes and certificate courses.
-- [Project and delivery](https://fullypowered.ai/functions/project-and-delivery/), because a course is a sequence of dependent work with a load on each week.
-- [Quality management](https://fullypowered.ai/functions/quality-management/), where the same question is asked of any programme: does what is promised have a place where it is taught and where it is checked.
-- [People and HR](https://fullypowered.ai/functions/people-and-hr/), where learning and development plans what is taught, in what order and with what load on each week.
-- [Established businesses](https://fullypowered.ai/situations/established-businesses/), where a course has run before and is being revised rather than built.
+- [Education](https://fullypowered.ai/industries/education/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=education-course-sequence-and-workload-review&from=gh-course-sequence-and-workload-review), where the next cohort's outline is revised from the last one's and the pressure points are easy to miss across a spreadsheet.
+- [Professional services](https://fullypowered.ai/industries/professional-services/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=education-course-sequence-and-workload-review&from=gh-course-sequence-and-workload-review), for the firms that run their own training programmes and certificate courses.
+- [Project and delivery](https://fullypowered.ai/functions/project-and-delivery/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=education-course-sequence-and-workload-review&from=gh-course-sequence-and-workload-review), because a course is a sequence of dependent work with a load on each week.
+- [Quality management](https://fullypowered.ai/functions/quality-management/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=education-course-sequence-and-workload-review&from=gh-course-sequence-and-workload-review), where the same question is asked of any programme: does what is promised have a place where it is taught and where it is checked.
+- [People and HR](https://fullypowered.ai/functions/people-and-hr/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=education-course-sequence-and-workload-review&from=gh-course-sequence-and-workload-review), where learning and development plans what is taught, in what order and with what load on each week.
+- [Established businesses](https://fullypowered.ai/situations/established-businesses/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=education-course-sequence-and-workload-review&from=gh-course-sequence-and-workload-review), where a course has run before and is being revised rather than built.
 
-It is different from [Project scope baseline](https://fullypowered.ai/workflows/project-scope-baseline/), which fixes what a project will deliver, and from [Training needs analysis](https://fullypowered.ai/workflows/training-needs-analysis/), which counts who on a team needs which training. This one reviews a course that already has an outline. [Recorded sessions into articles](https://fullypowered.ai/workflows/recorded-sessions-into-articles/) turns the sessions themselves into writing, once the course is running.
+It is different from [Project scope baseline](https://fullypowered.ai/workflows/project-scope-baseline/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=education-course-sequence-and-workload-review&from=gh-course-sequence-and-workload-review), which fixes what a project will deliver, and from [Training needs analysis](https://fullypowered.ai/workflows/training-needs-analysis/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=education-course-sequence-and-workload-review&from=gh-course-sequence-and-workload-review), which counts who on a team needs which training. This one reviews a course that already has an outline. [Recorded sessions into articles](https://fullypowered.ai/workflows/recorded-sessions-into-articles/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=education-course-sequence-and-workload-review&from=gh-course-sequence-and-workload-review) turns the sessions themselves into writing, once the course is running.
 
 ## What has to change for your company
 
@@ -79,10 +86,10 @@ Testing in your environment means running it on the outline of a course you have
 
 ## Related workflow templates
 
-- [Project scope baseline](https://fullypowered.ai/workflows/project-scope-baseline/)
-- [Training needs analysis](https://fullypowered.ai/workflows/training-needs-analysis/)
-- [Recorded sessions into articles](https://fullypowered.ai/workflows/recorded-sessions-into-articles/)
+- [Project scope baseline](https://fullypowered.ai/workflows/project-scope-baseline/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=education-course-sequence-and-workload-review&from=gh-course-sequence-and-workload-review)
+- [Training needs analysis](https://fullypowered.ai/workflows/training-needs-analysis/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=education-course-sequence-and-workload-review&from=gh-course-sequence-and-workload-review)
+- [Recorded sessions into articles](https://fullypowered.ai/workflows/recorded-sessions-into-articles/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=education-course-sequence-and-workload-review&from=gh-course-sequence-and-workload-review)
 
 ## Make it yours
 
-This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/).
+This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=education-course-sequence-and-workload-review&from=gh-course-sequence-and-workload-review).
