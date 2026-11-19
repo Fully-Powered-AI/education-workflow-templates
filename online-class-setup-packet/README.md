@@ -27,7 +27,7 @@ The academic office or the registrar's assistant starts it once a class is appro
 
 - The approved class details: course code and name, section, term, room, meeting pattern, enrolment cap, the platform template to use and the approval reference.
 - The teacher assignment, showing who is confirmed.
-- The roster export the office already keeps, with its default column headers.
+- The roster export from your student information system, which the office already keeps, with its default column headers.
 - The authorized invitation list: the people the school has cleared to be invited.
 - Optionally, the statuses your office counts as enrolled, if they differ from the default.
 
