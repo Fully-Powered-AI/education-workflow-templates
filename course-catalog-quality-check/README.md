@@ -4,6 +4,8 @@ The registrar's office gets one comparison of a department's course updates agai
 
 *Workflow template · Education · Operations and process improvement · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/course-catalog-quality-check/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/course-catalog-quality-check/?from=gh-course-catalog-quality-check)
+
 ## The outcome
 
 When a department sends in a batch of course updates, the registrar's office sees, before anyone edits anything, exactly what differs from the catalog: which fields change on which courses, which rows match no current record, which links point nowhere, which values break the institution's own field definitions. The plain differences are listed as differences. Everything that needs a judgment is written as a numbered question, with its facts, for the people who decide.

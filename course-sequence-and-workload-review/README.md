@@ -4,6 +4,8 @@ A course lead revising an outline for the next cohort gets a module map: learnin
 
 *Workflow template · Education · People and HR · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/course-sequence-and-workload-review/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/course-sequence-and-workload-review/?from=gh-course-sequence-and-workload-review)
+
 ## The outcome
 
 The course lead opens the revision with one map of the whole course instead of an outline, a spreadsheet of hours and a list of assessment dates read side by side. Every module shows what it is meant to teach, what it expects learners to know already, the activities in it and the hours the instructors have estimated for them. Week by week, the load is added up against the limit the course lead set, and the weeks that go over it are marked.

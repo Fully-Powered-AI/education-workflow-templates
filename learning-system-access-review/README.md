@@ -4,6 +4,8 @@ At term end or after staff change roles, the system owner lays the learning syst
 
 *Workflow template · Education · Information security · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/learning-system-access-review/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/learning-system-access-review/?from=gh-learning-system-access-review)
+
 ## The outcome
 
 The people who decide who may see student records get one list instead of a hunch. Every account that no longer fits is on it, with the reason in plain words: the person has left, the person now holds a different position, the permissions go beyond what the role allows, the class access does not match this term's classes, or nobody has signed in for months. Each item is addressed to the data owner whose decision it is.

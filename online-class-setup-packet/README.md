@@ -4,6 +4,8 @@ The learning-platform administrator receives one complete request for an approve
 
 *Workflow template · Education · IT and systems · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/online-class-setup-packet/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/online-class-setup-packet/?from=gh-education-online-class-setup-packet)
+
 ## The outcome
 
 Setting up an online class stops being a chain of emails. The administrator opens one page and sees what the class is, who is responsible for it, who is cleared to be invited and which names need a person to settle before anything happens. The questions that usually surface halfway through setup, such as a teacher nobody has confirmed, a student listed twice or a status that says nothing, are already on the page with the facts.

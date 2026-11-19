@@ -4,6 +4,8 @@ Before a school or college adopts a teaching tool that would handle student or s
 
 *Workflow template · Education · Compliance, risk and privacy · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/education-vendor-data-questions/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/education-vendor-data-questions/?from=gh-education-vendor-data-questions)
+
 ## The outcome
 
 The people who must judge a teaching tool stop starting from a blank page. They get a short set of questions fitted to the data this tool would actually touch, ready to put to the vendor. Beside it, they get a map of what the vendor's own papers already say, question by question, and a plain list of what is still unanswered.

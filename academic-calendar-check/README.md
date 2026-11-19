@@ -4,6 +4,8 @@ While year, term and session dates are being assembled, your registrar gets a dr
 
 *Workflow template · Education · Operations and process improvement · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/academic-calendar-check/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/academic-calendar-check/?from=gh-education-academic-calendar-check)
+
 ## The outcome
 
 The calendar reaches the registrar as one draft instead of a pile of proposals. Each year, term and session is listed with its dates, the term it belongs to and its registration window, so anyone can see at a glance what sits inside what.
