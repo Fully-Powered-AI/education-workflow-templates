@@ -1,6 +1,6 @@
-# Course sequence and workload review: an invented example
+# Course sequence and workload review: an example
 
-*Illustrative example with invented data.* The training provider, the course, its modules and every hour, week and outcome below are invented. The course is a six-week evening course, "Spreadsheet Analysis for Office Teams", and the course lead is the programme manager of an invented training provider. No learner is named or counted. First come the four inputs the course lead supplied, in full, then the review the workflow template returned.
+*Illustrative example with sample data.* The training provider, the course, its modules and every hour, week and outcome below are illustrative. The course is a six-week evening course, "Spreadsheet Analysis for Office Teams", and the course lead is the programme manager of an illustrative training provider. No learner is named or counted. First come the four inputs the course lead supplied, in full, then the review the workflow template returned.
 
 ## The inputs
 

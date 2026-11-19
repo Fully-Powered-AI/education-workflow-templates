@@ -8,7 +8,7 @@ A draft academic calendar with every registration window tied to its term, and c
 **Quick start**
 
 1. Read EXAMPLE.md to see what a good result looks like.
-2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the sample ones from EXAMPLE.md.
 3. Read what comes back. It marks what it checked and what is left for you.
 
 *Workflow template · Education · Operations and process improvement · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/academic-calendar-check/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=education-academic-calendar-check&from=gh-education-academic-calendar-check)*
@@ -40,7 +40,7 @@ One draft calendar, in date order, with each term followed by its sessions. Unde
 
 Every date shows the proposal it came from, so each line can be checked against the file the offices sent. A conflicting date shows all its versions and no chosen one.
 
-See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
+See the worked example in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
@@ -56,7 +56,7 @@ Name your own units: year, term, session, or whatever your institution calls the
 
 ## What has been checked
 
-FullyPowered AI wrote this workflow template. It was editorially reviewed on 10 November 2026. It was tried once on its invented example, on an earlier wording of the instructions, in Claude on 10 November 2026, and the record is published with it; that run saw the example's header counts early, which the record says. It has not been tested in a client environment or as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+FullyPowered AI wrote this workflow template. It was editorially reviewed on 10 November 2026. It was tried once on its example, on an earlier wording of the instructions, in Claude on 10 November 2026, and the record is published with it; that run saw the example's header counts early, which the record says. It has not been tested in a client environment or as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
 Testing in your environment means running it on a past year the registrar knows well, plus cases written in advance with the expected result: a withdrawal date proposed twice, a term with no grade deadline, a session that ends after its term, a deadline on a closed day. The registrar checks every date against the files before anyone relies on the draft. [Spreadsheet check before sharing](https://fullypowered.ai/workflows/spreadsheet-check-before-sharing/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=education-academic-calendar-check&from=gh-education-academic-calendar-check) covers the same habit for any file that others will rely on.
 
@@ -64,13 +64,13 @@ Testing in your environment means running it on a past year the registrar knows 
 - Sources and rights reviewed.
 - Editorially reviewed on 10 November 2026.
 - Package format checked by script on every release.
-- Tried once on its invented example in Claude on 10 November 2026. The record is in [TRIAL.md](TRIAL.md).
+- Tried once on its example in Claude on 10 November 2026. The record is in [TRIAL.md](TRIAL.md).
 - Not yet tested in a client environment.
 
 ## What is in this folder
 
 - [TEMPLATE.md](TEMPLATE.md): the complete workflow template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
-- [EXAMPLE.md](EXAMPLE.md): a worked example with invented data.
+- [EXAMPLE.md](EXAMPLE.md): a worked example.
 - [TRIAL.md](TRIAL.md): what came out when the template was tried on its example.
 - [SKILL.md](SKILL.md): the technical file, for AI products that load packaged instructions from a folder.
 - [SOURCES.md](SOURCES.md): what the workflow template drew on, with licences.

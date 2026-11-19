@@ -1,12 +1,12 @@
-# Course catalog quality check: trial on the invented example
+# Course catalog quality check: trial on the example
 
 - **Product:** Claude, run in Claude Code
 - **Model:** Claude Sonnet 5.5 (model ID claude-sonnet-5-5)
 - **Date:** 2026-11-10
 
-The inputs for this run are the invented example in `public/example.md` (Harbour Lane College, Hospitality Studies), now including a fourth input holding the batch label "Course updates, 10 November 2026" and the line "Run on: 10 November 2026, by the catalog coordinator". No client data was used.
+The inputs for this run are the example in `public/example.md` (Harbour Lane College, Hospitality Studies), now including a fourth input holding the batch label "Course updates, 10 November 2026" and the line "Run on: 10 November 2026, by the catalog coordinator". No client data was used.
 
-This is the third run. The first run, earlier the same day, gave the same five conflicts but exposed gaps in the template (listed under "What changed since the first run"). The template was then revised and run a second time. After an independent review, the instruction block, the input to the example and the example report were adjusted in small ways (listed under "What changed since the second run"), and the template was run a third time on the revised invented inputs. This record replaces the earlier ones. The run followed the fenced instruction block and the output format in `member/template.md` on the four invented inputs: the submission (seven rows), the catalog export of 9 November 2026 (six records), the field definitions, and the batch label with the run line.
+This is the third run. The first run, earlier the same day, gave the same five conflicts but exposed gaps in the template (listed under "What changed since the first run"). The template was then revised and run a second time. After an independent review, the instruction block, the input to the example and the example report were adjusted in small ways (listed under "What changed since the second run"), and the template was run a third time on the revised sample inputs. This record replaces the earlier ones. The run followed the fenced instruction block and the output format in `member/template.md` on the four sample inputs: the submission (seven rows), the catalog export of 9 November 2026 (six records), the field definitions, and the batch label with the run line.
 
 One caveat on independence: the example's report had already been read, in the first run and while the example was being corrected, before this run was written, and in this third run the same reader had also seen the reviewer's notes. Agreement between this output and the example is therefore weak evidence that the template works; it shows the revised wording produces the report the example shows, not that a fresh reader would reach it unaided.
 

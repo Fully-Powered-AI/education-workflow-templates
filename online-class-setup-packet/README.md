@@ -8,7 +8,7 @@ Get one complete request for an approved online class, with the teacher, who can
 **Quick start**
 
 1. Read EXAMPLE.md to see what a good result looks like.
-2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the sample ones from EXAMPLE.md.
 3. Read what comes back. It marks what it checked and what is left for you.
 
 *Workflow template · Education · IT and systems · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/online-class-setup-packet/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=education-online-class-setup-packet&from=gh-education-online-class-setup-packet)*
@@ -35,7 +35,7 @@ The academic office or the registrar's assistant starts it once a class is appro
 
 One packet in a fixed order: the class request, the responsible teacher with confirmation status, counts that add up, the list of people who can be invited, numbered roster exceptions and the decisions left to the administrator. If an input does not match, the work stops and says which one and why.
 
-See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
+See the worked example in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
@@ -51,7 +51,7 @@ Use your own column headers for the roster and teacher files, or rename the defa
 
 ## What has been checked
 
-FullyPowered AI wrote this workflow template. It was editorially reviewed on 10 November 2026. It was tried once on its invented example in Claude on 10 November 2026; the record is published with it, and lists the points where the instructions were ambiguous. Edits made afterward to settle those points, and to add two parts to the output format, have not been run again; the trial record lists them. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+FullyPowered AI wrote this workflow template. It was editorially reviewed on 10 November 2026. It was tried once on its example in Claude on 10 November 2026; the record is published with it, and lists the points where the instructions were ambiguous. Edits made afterward to settle those points, and to add two parts to the output format, have not been run again; the trial record lists them. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
 Testing in your environment means running it on a class the administrator has already set up by hand, plus hard cases written in advance: a teacher not yet confirmed, a student listed under two numbers, a blank enrolment status, a name on the invitation list who is not on the roster, a header that does not match. The administrator checks every line against the approval and the export before anyone relies on the packet. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=education-online-class-setup-packet&from=gh-education-online-class-setup-packet) sets those cases up, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=education-online-class-setup-packet&from=gh-education-online-class-setup-packet) describes the record we keep.
 
@@ -59,13 +59,13 @@ Testing in your environment means running it on a class the administrator has al
 - Sources and rights reviewed.
 - Editorially reviewed on 10 November 2026.
 - Package format checked by script on every release.
-- Tried once on its invented example in Claude on 10 November 2026. The record is in [TRIAL.md](TRIAL.md).
+- Tried once on its example in Claude on 10 November 2026. The record is in [TRIAL.md](TRIAL.md).
 - Not yet tested in a client environment.
 
 ## What is in this folder
 
 - [TEMPLATE.md](TEMPLATE.md): the complete workflow template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
-- [EXAMPLE.md](EXAMPLE.md): a worked example with invented data.
+- [EXAMPLE.md](EXAMPLE.md): a worked example.
 - [TRIAL.md](TRIAL.md): what came out when the template was tried on its example.
 - [SKILL.md](SKILL.md): the technical file, for AI products that load packaged instructions from a folder.
 - [SOURCES.md](SOURCES.md): what the workflow template drew on, with licences.

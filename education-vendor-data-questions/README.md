@@ -8,7 +8,7 @@ A scoped question pack on data flows, access, retention and subprocessors, with 
 **Quick start**
 
 1. Read EXAMPLE.md to see what a good result looks like.
-2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the sample ones from EXAMPLE.md.
 3. Read what comes back. It marks what it checked and what is left for you.
 
 *Workflow template · Education · Compliance, risk and privacy · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/education-vendor-data-questions/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=education-education-vendor-data-questions&from=gh-education-vendor-data-questions)*
@@ -35,7 +35,7 @@ A privacy lead, procurement lead or school business manager starts it when a tea
 
 One document in a fixed order: the intended use and data in scope, the documents and which were read, the question pack to put to the vendor, what each document says against each question and how strong that support is, the gaps in order, what each lead has to assess, and the decisions for leadership. Counts at the end of the mapping add up to the number of questions.
 
-See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
+See the worked example in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
@@ -54,7 +54,7 @@ This workflow template gives no legal or regulatory opinion, never declares a ve
 
 ## What has been checked
 
-FullyPowered AI wrote this workflow template. It was editorially reviewed on 10 November 2026. It was tried on its invented example on 10 November 2026 in three runs, all made by the assistant that revised the template rather than by a fresh reader; the record of the third is published with it, and since then only the wording of two instruction sentences has changed, with no rule changed. A rerun in a fresh session has not been made. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+FullyPowered AI wrote this workflow template. It was editorially reviewed on 10 November 2026. It was tried on its example on 10 November 2026 in three runs, all made by the assistant that revised the template rather than by a fresh reader; the record of the third is published with it, and since then only the wording of two instruction sentences has changed, with no rule changed. A rerun in a fresh session has not been made. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
 Testing in your environment means running it on a tool you have already assessed, with cases written in advance: two documents that disagree, an audit report older than your limit, an agreement pasted in, a header that does not match. The privacy lead checks every mapped quotation against the vendor's document before anyone relies on the page. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=education-education-vendor-data-questions&from=gh-education-vendor-data-questions) sets those cases up, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=education-education-vendor-data-questions&from=gh-education-vendor-data-questions) describes the record we keep.
 
@@ -62,13 +62,13 @@ Testing in your environment means running it on a tool you have already assessed
 - Sources and rights reviewed.
 - Editorially reviewed on 10 November 2026.
 - Package format checked by script on every release.
-- Tried once on its invented example in Claude on 10 November 2026. The record is in [TRIAL.md](TRIAL.md).
+- Tried once on its example in Claude on 10 November 2026. The record is in [TRIAL.md](TRIAL.md).
 - Not yet tested in a client environment.
 
 ## What is in this folder
 
 - [TEMPLATE.md](TEMPLATE.md): the complete workflow template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
-- [EXAMPLE.md](EXAMPLE.md): a worked example with invented data.
+- [EXAMPLE.md](EXAMPLE.md): a worked example.
 - [TRIAL.md](TRIAL.md): what came out when the template was tried on its example.
 - [SKILL.md](SKILL.md): the technical file, for AI products that load packaged instructions from a folder.
 - [SOURCES.md](SOURCES.md): what the workflow template drew on, with licences.

@@ -4,7 +4,7 @@
 - **Model:** Claude Sonnet 5.5 (model ID claude-sonnet-5-5)
 - **Date:** 2026-11-10
 
-The inputs were the invented example in [example.md](example.md): the settings, the structure, the date proposals and the closed days for the invented College's 2027-28 year. No client data was used. The assistant that ran the template did not write it. It was given the template's instruction block and output format and the example's inputs, and it was kept away from the example's published draft until its own draft was finished. One slip in that: while opening the example file it also displayed the first lines of the published draft, which include the header counts (24 proposals placed, 1 for a unit not in the structure, 11 findings). Those counts were not used to build the draft, but the reader should know they were seen first.
+The inputs were the example in [example.md](example.md): the settings, the structure, the date proposals and the closed days for the illustrative College's 2027-28 year. No client data was used. The assistant that ran the template did not write it. It was given the template's instruction block and output format and the example's inputs, and it was kept away from the example's published draft until its own draft was finished. One slip in that: while opening the example file it also displayed the first lines of the published draft, which include the header counts (24 proposals placed, 1 for a unit not in the structure, 11 findings). Those counts were not used to build the draft, but the reader should know they were seen first.
 
 ## What came out
 
@@ -129,7 +129,7 @@ Draft for the Registrar's confirmation. No date has been chosen, and no record, 
 
 ## Shortcomings
 
-- It was tried once, by one assistant, on one invented year. This does not show how it behaves with a real export, a renamed column, an unreadable date or a longer calendar; those acceptance tests were not run.
+- It was tried once, by one assistant, on one illustrative year. This does not show how it behaves with a real export, a renamed column, an unreadable date or a longer calendar; those acceptance tests were not run.
 - Weekday and day-count arithmetic is the likeliest place for a slip; a person should check it, as the reviewer checklist says.
 
 ## Changes to the template after this run

@@ -1,6 +1,6 @@
-# Teaching tool vendor data questions: an invented example
+# Teaching tool vendor data questions: an example
 
-*Illustrative example with invented data.* The school, the tool, the vendor, the companies, the people, the dates and the documents below are all invented. The school is an invented secondary school, School A, whose English department wants to adopt Tool A, an online reading-practice tool from Vendor A. The business manager is preparing the review for the privacy lead and the security lead, with the head teacher approving. First come the inputs the business manager supplied, in full, then the document the workflow template returned.
+*Illustrative example with sample data.* The school, the tool, the vendor, the companies, the people, the dates and the documents below are all illustrative. The school is an illustrative secondary school, School A, whose English department wants to adopt Tool A, an online reading-practice tool from Vendor A. The business manager is preparing the review for the privacy lead and the security lead, with the head teacher approving. First come the inputs the business manager supplied, in full, then the document the workflow template returned.
 
 ## The inputs
 

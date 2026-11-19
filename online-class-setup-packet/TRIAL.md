@@ -1,10 +1,10 @@
-# Online class setup packet: one trial on its invented example
+# Online class setup packet: one trial on its example
 
 - **Product:** Claude, run in Claude Code
 - **Model:** Claude Sonnet 5.5 (model ID claude-sonnet-5-5)
 - **Date:** 2026-11-10
 
-The inputs are the invented example in [example.md](example.md), the approved details for BUS 214 section 02, the teacher assignment, the ten-row roster export, the authorized invitation list and the settings. No client data was used. The model that ran the trial did not write the template. It read the template and the example's inputs first, produced the packet by following the instruction block and the output format, and only then read the example's own packet to compare.
+The inputs are the example in [example.md](example.md), the approved details for BUS 214 section 02, the teacher assignment, the ten-row roster export, the authorized invitation list and the settings. No client data was used. The model that ran the trial did not write the template. It read the template and the example's inputs first, produced the packet by following the instruction block and the output format, and only then read the example's own packet to compare.
 
 ## What came out
 

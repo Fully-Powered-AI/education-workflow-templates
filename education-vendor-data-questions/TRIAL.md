@@ -1,14 +1,14 @@
-# Trial: Teaching tool vendor data questions, run on its invented example
+# Trial: Teaching tool vendor data questions, run on its example
 
 - **Product:** Claude, run in Claude Code
 
-Model: recorded as Claude Sonnet 5.5 (model ID claude-sonnet-5-5) by the session that made the run; this was not independently verified. This is the third recorded run. The first run found that the template did not give the wording of the standard questions, which part of each question had to be answered, or the order in which statuses win; the second followed those additions. A later independent review failed the template because the invented vendor document named two real companies, and raised smaller points on the instruction block and on several quotations. After that revision, this run was made by the assistant that made the revision, following the revised instruction block and output format by hand in the same session, not in a fresh session. It is therefore less independent than a run by a reader who had not seen the revision, and the example's output section holds this run's output rather than an independent expectation. A rerun in a fresh session has not been made. After a later review, two sentences of the instruction block were reworded without changing any rule (the repeated quoting rule was merged and the dates for DOCUMENTS DIFFER were stated in the gap-list item); the run was not repeated and the recorded output is unchanged.
+Model: recorded as Claude Sonnet 5.5 (model ID claude-sonnet-5-5) by the session that made the run; this was not independently verified. This is the third recorded run. The first run found that the template did not give the wording of the standard questions, which part of each question had to be answered, or the order in which statuses win; the second followed those additions. A later independent review failed the template because the illustrative vendor document named two real companies, and raised smaller points on the instruction block and on several quotations. After that revision, this run was made by the assistant that made the revision, following the revised instruction block and output format by hand in the same session, not in a fresh session. It is therefore less independent than a run by a reader who had not seen the revision, and the example's output section holds this run's output rather than an independent expectation. A rerun in a fresh session has not been made. After a later review, two sentences of the instruction block were reworded without changing any rule (the repeated quoting rule was merged and the dates for DOCUMENTS DIFFER were stated in the gap-list item); the run was not repeated and the recorded output is unchanged.
 
-Wording change after the second run: item 3 of D2 originally named two real account providers in its sign-in sentence. It now reads "Schools sign in with single sign-on through the accounts the school already uses." The change removes two company names from the invented inputs. The Q5 quotation changed with it, and this run was made on the changed text. The Q11 and Q12 lines now quote their passages. Statuses, totals and gaps are the same as in the second run.
+Wording change after the second run: item 3 of D2 originally named two real account providers in its sign-in sentence. It now reads "Schools sign in with single sign-on through the accounts the school already uses." The change removes two company names from the sample inputs. The Q5 quotation changed with it, and this run was made on the changed text. The Q11 and Q12 lines now quote their passages. Statuses, totals and gaps are the same as in the second run.
 
 Date: 2026-11-10
 
-The inputs are the invented example in `public/example.md` (an invented secondary school, Tool A and Vendor A). No client data was used.
+The inputs are the example in `public/example.md` (an illustrative secondary school, Tool A and Vendor A). No client data was used.
 
 ## Inputs used
 
@@ -107,7 +107,7 @@ Every statement traces to the documents supplied on 10 November 2026. The assist
 
 ## What was observed
 
-Every part of the output format was produced, in order. Nothing in the inputs triggered a stop: headers matched, controlled values were allowed, no row held a person's name, and no password or key was present. D5 was listed as not read and nothing from it was used. The question wording is the template's own, so the pack is the same for anyone running it on this school. The totals add up (1 + 3 + 8 + 1 + 2 = 15), the 14 gaps equal the questions without evidence found, 63 days and the weekdays were checked against the calendar, and D4 is 19 whole months old. Every quotation was counted and is 15 words or fewer, and each was found in the document and paragraph cited. The invented names are letters (School A, Tool A, Vendor A, Auditor X) or obviously invented companies (Hosting Company B, Speech Company C, Email Company D); no real company is named.
+Every part of the output format was produced, in order. Nothing in the inputs triggered a stop: headers matched, controlled values were allowed, no row held a person's name, and no password or key was present. D5 was listed as not read and nothing from it was used. The question wording is the template's own, so the pack is the same for anyone running it on this school. The totals add up (1 + 3 + 8 + 1 + 2 = 15), the 14 gaps equal the questions without evidence found, 63 days and the weekdays were checked against the calendar, and D4 is 19 whole months old. Every quotation was counted and is 15 words or fewer, and each was found in the document and paragraph cited. The sample names are letters (School A, Tool A, Vendor A, Auditor X) or obviously illustrative companies (Hosting Company B, Speech Company C, Email Company D); no real company is named.
 
 Judgment calls and places the rules still leave open:
 
@@ -128,6 +128,6 @@ No instruction was refused or stopped for. Nothing was sent, and no fact was add
 
 ## Differences from the earlier runs
 
-This run, against the second, changes only the wording of one invented input and the quotations on the Q5, Q11 and Q12 lines; the totals are the same (1 / 3 / 8 / 1 / 2).
+This run, against the second, changes only the wording of one sample input and the quotations on the Q5, Q11 and Q12 lines; the totals are the same (1 / 3 / 8 / 1 / 2).
 
 The first run (replaced) used its own question wording and got 1 / 5 / 8 / 1 / 0 for evidence / vendor statement only / partly / differ / not addressed. This run, with the template's wording, gets 1 / 3 / 8 / 1 / 2. Dates are in words and the closing line has no weekday, the unread agreement carries the template's fixed reason, and the leads' question numbers are in number order.

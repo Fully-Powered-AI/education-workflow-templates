@@ -8,7 +8,7 @@ Get one module map of a course, with crowded weeks and coverage gaps marked as q
 **Quick start**
 
 1. Read EXAMPLE.md to see what a good result looks like.
-2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the sample ones from EXAMPLE.md.
 3. Read what comes back. It marks what it checked and what is left for you.
 
 *Workflow template · Education · People and HR · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/course-sequence-and-workload-review/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=education-course-sequence-and-workload-review&from=gh-course-sequence-and-workload-review)*
@@ -38,7 +38,7 @@ The course lead runs it when an outline is being revised for the next cohort, wi
 
 One review in a fixed order: a status line with the counts; the module map; the load for each week against the course lead's limits; the coverage of each learning outcome; and the questions for the course lead, in the order they matter. Empty sections say so. The hours are the instructors' estimates, printed as supplied, and the review adds them up without adjusting any of them.
 
-See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
+See the worked example in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
@@ -57,7 +57,7 @@ Set the two limits yourself: the hours a week you consider a full load and the a
 
 ## What has been checked
 
-FullyPowered AI wrote this workflow template from its own published map of the work, with no third-party text. It was editorially reviewed on 10 November 2026. It was tried on its invented example in Claude on 10 November 2026 in two runs; the record of the second is published with it. The second run had already seen the example's published review, so a clean rerun from the inputs alone has not been done. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+FullyPowered AI wrote this workflow template from its own published map of the work, with no third-party text. It was editorially reviewed on 10 November 2026. It was tried on its example in Claude on 10 November 2026 in two runs; the record of the second is published with it. The second run had already seen the example's published review, so a clean rerun from the inputs alone has not been done. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
 Testing in your environment means running it on the outline of a course you have just taught and know well, then checking the review against what the instructors and learners found hard: the week everyone said was too heavy, the outcome nobody got round to teaching, the topic that was assessed before it was covered. The course lead checks every line against the exports before the review goes to the teaching staff.
 
@@ -65,13 +65,13 @@ Testing in your environment means running it on the outline of a course you have
 - Sources and rights reviewed.
 - Editorially reviewed on 10 November 2026.
 - Package format checked by script on every release.
-- Tried once on its invented example in Claude on 10 November 2026. The record is in [TRIAL.md](TRIAL.md).
+- Tried once on its example in Claude on 10 November 2026. The record is in [TRIAL.md](TRIAL.md).
 - Not yet tested in a client environment.
 
 ## What is in this folder
 
 - [TEMPLATE.md](TEMPLATE.md): the complete workflow template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
-- [EXAMPLE.md](EXAMPLE.md): a worked example with invented data.
+- [EXAMPLE.md](EXAMPLE.md): a worked example.
 - [TRIAL.md](TRIAL.md): what came out when the template was tried on its example.
 - [SKILL.md](SKILL.md): the technical file, for AI products that load packaged instructions from a folder.
 - [SOURCES.md](SOURCES.md): what the workflow template drew on, with licences.

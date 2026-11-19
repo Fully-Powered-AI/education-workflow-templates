@@ -1,6 +1,6 @@
-# Online class setup packet: an invented example
+# Online class setup packet: an example
 
-*Illustrative example with invented data.* An invented training college, its invented staff and invented students. The inputs the academic office supplies come first, then the packet prepared from them.
+*Illustrative example with sample data.* An illustrative training college, its illustrative staff and illustrative students. The inputs the academic office supplies come first, then the packet prepared from them.
 
 ## What the academic office supplies
 

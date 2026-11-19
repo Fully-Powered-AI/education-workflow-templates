@@ -4,7 +4,7 @@
 - **Model:** Claude Sonnet 5.5 (model ID claude-sonnet-5-5)
 - **Date:** 2026-11-10
 
-The inputs are the invented example in `public/example.md` (the settings, the learning outcomes, the activities and the assessments for "Spreadsheet Analysis for Office Teams"). No client data was used. The assistant that ran this did not write the template.
+The inputs are the example in `public/example.md` (the settings, the learning outcomes, the activities and the assessments for "Spreadsheet Analysis for Office Teams"). No client data was used. The assistant that ran this did not write the template.
 
 ## A limit on this trial
 
@@ -95,4 +95,4 @@ Internal working document for Spreadsheet Analysis for Office Teams. Nothing has
 - **Facts not in the inputs:** none found. Every hour, week, name and ID traces to the inputs.
 - **Needs merging:** M4 Charts takes its Needs from the three activity rows in the order they appear: "M2 Formulas", then "Pivot tables", then "M3 Lookups". The printed line follows that order, as the instructions say.
 - **Ambiguities from the first run, and where they now stand:** the instructions now state the sort order of outcome IDs, the merging and order of Needs, that an order problem is not counted as a coverage gap, that a week not judged and its missing estimate are one question, how to place the weekday, that each week in a "Taught" list is printed once, the question order, and the question kind for an outcome not in the list. These were answered in the template after the first run; this run followed them, and nothing new was ambiguous. An empty week (no activities) is not in the example's inputs, so that sentence in step 4 has not been run.
-- **Shortcomings:** this was one run on one invented example. It is not a test of the twelve proposed acceptance tests; none of the stop conditions or refusals was exercised. The independence limit above applies.
+- **Shortcomings:** this was one run on one example. It is not a test of the twelve proposed acceptance tests; none of the stop conditions or refusals was exercised. The independence limit above applies.
