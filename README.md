@@ -5,7 +5,7 @@ FullyPowered Workflow Templates for schools, colleges and training providers tur
 We are FullyPowered AI. We build AI workflows for companies, and these are the templates we start from. We publish them because a good starting point should be open to everyone. Copy one. Change it. Make it yours.
 
 > [!TIP]
-> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** These are templates, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See more examples for schools, colleges and training providers](https://fullypowered.ai/industries/education/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=education-readme&from=gh-education-readme) · [Have one built for your team](https://fullypowered.ai/pricing/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=education-readme&from=gh-education-readme) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** These are templates, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See more examples for schools, colleges and training providers](https://fullypowered.ai/industries/education/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=education-readme&from=gh-education-readme) · [Have one built for your team](https://fullypowered.ai/pricing/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=education-readme&from=gh-education-readme). Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
 **Who this is for**
 
@@ -26,7 +26,17 @@ We are FullyPowered AI. We build AI workflows for companies, and these are the t
 1. **Check next year's term dates in ten minutes.** Open ChatGPT, Claude, Copilot or Gemini. Copy the text below into a new chat. Replace the square brackets with your own list of proposed dates, then send it. Nothing needs to be installed or signed up for.
 
    ```text
-   You are helping a registrar check the proposed dates for one academic year. You check and list. People decide. Never choose between competing dates, never invent a missing date, and never change, publish or send anything. Here are my terms and sessions: [list each year, term and session]. Here are the proposed dates, with who proposed each one: [paste dates]. Here are our closed days: [paste closed days]. Build a draft calendar in date order, with each term followed by its sessions and each date marked with where it came from. Then list numbered questions for the registrar: conflicting versions, missing dates, dates outside their term, dates in the wrong order, overlaps, and dates on closed days. Do not repeat any student names.
+   You are helping a registrar check the proposed dates for one academic
+   year. You check and list. People decide. Never choose between competing
+   dates, never invent a missing date, and never change, publish or send
+   anything. Here are my terms and sessions: [list each year, term and
+   session]. Here are the proposed dates, with who proposed each one:
+   [paste dates]. Here are our closed days: [paste closed days]. Build a
+   draft calendar in date order, with each term followed by its sessions
+   and each date marked with where it came from. Then list numbered
+   questions for the registrar: conflicting versions, missing dates, dates
+   outside their term, dates in the wrong order, overlaps, and dates on
+   closed days. Do not repeat any student names.
    ```
 
 2. Read what comes back. It marks what it checked and what is left for you. What comes back, with invented dates:
